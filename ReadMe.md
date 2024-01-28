@@ -108,8 +108,8 @@ id: Algeria
 zoomFeatures: true 
 minZoom: 2 
 maxZoom: 18
-geojsonFolder: ./Algeria//
-markerFolder: ./Algeria//
+geojsonFolder: .//
+markerFolder: .//
 ```
 
 [name-en::Algeria] 
