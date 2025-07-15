@@ -40,11 +40,18 @@ markerFolder: ./Oum_el_Bouaghi/
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../../../_Standards/geo/Continent/Africa/Algeria/Counties/Oum_el_Bouaghi|Oum_el_Bouaghi]] 
-- [[../../../../../../_public/geo/Continent/Africa/Algeria/Counties/Oum_el_Bouaghi.public|Oum_el_Bouaghi.public]] 
-- [[../../../../../../_internal/geo/Continent/Africa/Algeria/Counties/Oum_el_Bouaghi.internal|Oum_el_Bouaghi.internal]] 
-- [[../../../../../../_protect/geo/Continent/Africa/Algeria/Counties/Oum_el_Bouaghi.protect|Oum_el_Bouaghi.protect]] 
-- [[../../../../../../_private/geo/Continent/Africa/Algeria/Counties/Oum_el_Bouaghi.private|Oum_el_Bouaghi.private]] 
-- [[../../../../../../_personal/geo/Continent/Africa/Algeria/Counties/Oum_el_Bouaghi.personal|Oum_el_Bouaghi.personal]] 
-- [[../../../../../../_secret/geo/Continent/Africa/Algeria/Counties/Oum_el_Bouaghi.secret|Oum_el_Bouaghi.secret]] 
+
+### #is_/same_as :: [Oum_el_Bouaghi](/_Standards/Earth/Continent/Africa/Africa~North/Algeria/provinces~Algeria/Oum_el_Bouaghi.md) 
+
+### #is_/same_as :: [Oum_el_Bouaghi.public](/_public/Earth/Continent/Africa/Africa~North/Algeria/provinces~Algeria/Oum_el_Bouaghi.public.md) 
+
+### #is_/same_as :: [Oum_el_Bouaghi.internal](/_internal/Earth/Continent/Africa/Africa~North/Algeria/provinces~Algeria/Oum_el_Bouaghi.internal.md) 
+
+### #is_/same_as :: [Oum_el_Bouaghi.protect](/_protect/Earth/Continent/Africa/Africa~North/Algeria/provinces~Algeria/Oum_el_Bouaghi.protect.md) 
+
+### #is_/same_as :: [Oum_el_Bouaghi.private](/_private/Earth/Continent/Africa/Africa~North/Algeria/provinces~Algeria/Oum_el_Bouaghi.private.md) 
+
+### #is_/same_as :: [Oum_el_Bouaghi.personal](/_personal/Earth/Continent/Africa/Africa~North/Algeria/provinces~Algeria/Oum_el_Bouaghi.personal.md) 
+
+### #is_/same_as :: [Oum_el_Bouaghi.secret](/_secret/Earth/Continent/Africa/Africa~North/Algeria/provinces~Algeria/Oum_el_Bouaghi.secret.md)
 

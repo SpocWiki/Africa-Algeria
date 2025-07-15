@@ -40,11 +40,18 @@ markerFolder: ./Khenchela/
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../../../_Standards/geo/Continent/Africa/Algeria/Counties/Khenchela|Khenchela]] 
-- [[../../../../../../_public/geo/Continent/Africa/Algeria/Counties/Khenchela.public|Khenchela.public]] 
-- [[../../../../../../_internal/geo/Continent/Africa/Algeria/Counties/Khenchela.internal|Khenchela.internal]] 
-- [[../../../../../../_protect/geo/Continent/Africa/Algeria/Counties/Khenchela.protect|Khenchela.protect]] 
-- [[../../../../../../_private/geo/Continent/Africa/Algeria/Counties/Khenchela.private|Khenchela.private]] 
-- [[../../../../../../_personal/geo/Continent/Africa/Algeria/Counties/Khenchela.personal|Khenchela.personal]] 
-- [[../../../../../../_secret/geo/Continent/Africa/Algeria/Counties/Khenchela.secret|Khenchela.secret]] 
+
+### #is_/same_as :: [Khenchela](/_Standards/Earth/Continent/Africa/Africa~North/Algeria/provinces~Algeria/Khenchela.md) 
+
+### #is_/same_as :: [Khenchela.public](/_public/Earth/Continent/Africa/Africa~North/Algeria/provinces~Algeria/Khenchela.public.md) 
+
+### #is_/same_as :: [Khenchela.internal](/_internal/Earth/Continent/Africa/Africa~North/Algeria/provinces~Algeria/Khenchela.internal.md) 
+
+### #is_/same_as :: [Khenchela.protect](/_protect/Earth/Continent/Africa/Africa~North/Algeria/provinces~Algeria/Khenchela.protect.md) 
+
+### #is_/same_as :: [Khenchela.private](/_private/Earth/Continent/Africa/Africa~North/Algeria/provinces~Algeria/Khenchela.private.md) 
+
+### #is_/same_as :: [Khenchela.personal](/_personal/Earth/Continent/Africa/Africa~North/Algeria/provinces~Algeria/Khenchela.personal.md) 
+
+### #is_/same_as :: [Khenchela.secret](/_secret/Earth/Continent/Africa/Africa~North/Algeria/provinces~Algeria/Khenchela.secret.md)
 

@@ -40,11 +40,18 @@ markerFolder: ./Jijel/
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../../../_Standards/geo/Continent/Africa/Algeria/Counties/Jijel|Jijel]] 
-- [[../../../../../../_public/geo/Continent/Africa/Algeria/Counties/Jijel.public|Jijel.public]] 
-- [[../../../../../../_internal/geo/Continent/Africa/Algeria/Counties/Jijel.internal|Jijel.internal]] 
-- [[../../../../../../_protect/geo/Continent/Africa/Algeria/Counties/Jijel.protect|Jijel.protect]] 
-- [[../../../../../../_private/geo/Continent/Africa/Algeria/Counties/Jijel.private|Jijel.private]] 
-- [[../../../../../../_personal/geo/Continent/Africa/Algeria/Counties/Jijel.personal|Jijel.personal]] 
-- [[../../../../../../_secret/geo/Continent/Africa/Algeria/Counties/Jijel.secret|Jijel.secret]] 
+
+### #is_/same_as :: [Jijel](/_Standards/Earth/Continent/Africa/Africa~North/Algeria/provinces~Algeria/Jijel.md) 
+
+### #is_/same_as :: [Jijel.public](/_public/Earth/Continent/Africa/Africa~North/Algeria/provinces~Algeria/Jijel.public.md) 
+
+### #is_/same_as :: [Jijel.internal](/_internal/Earth/Continent/Africa/Africa~North/Algeria/provinces~Algeria/Jijel.internal.md) 
+
+### #is_/same_as :: [Jijel.protect](/_protect/Earth/Continent/Africa/Africa~North/Algeria/provinces~Algeria/Jijel.protect.md) 
+
+### #is_/same_as :: [Jijel.private](/_private/Earth/Continent/Africa/Africa~North/Algeria/provinces~Algeria/Jijel.private.md) 
+
+### #is_/same_as :: [Jijel.personal](/_personal/Earth/Continent/Africa/Africa~North/Algeria/provinces~Algeria/Jijel.personal.md) 
+
+### #is_/same_as :: [Jijel.secret](/_secret/Earth/Continent/Africa/Africa~North/Algeria/provinces~Algeria/Jijel.secret.md)
 

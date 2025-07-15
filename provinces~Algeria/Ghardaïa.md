@@ -40,11 +40,18 @@ markerFolder: ./Ghardaïa/
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../../../_Standards/geo/Continent/Africa/Algeria/Counties/Ghardaïa|Ghardaïa]] 
-- [[../../../../../../_public/geo/Continent/Africa/Algeria/Counties/Ghardaïa.public|Ghardaïa.public]] 
-- [[../../../../../../_internal/geo/Continent/Africa/Algeria/Counties/Ghardaïa.internal|Ghardaïa.internal]] 
-- [[../../../../../../_protect/geo/Continent/Africa/Algeria/Counties/Ghardaïa.protect|Ghardaïa.protect]] 
-- [[../../../../../../_private/geo/Continent/Africa/Algeria/Counties/Ghardaïa.private|Ghardaïa.private]] 
-- [[../../../../../../_personal/geo/Continent/Africa/Algeria/Counties/Ghardaïa.personal|Ghardaïa.personal]] 
-- [[../../../../../../_secret/geo/Continent/Africa/Algeria/Counties/Ghardaïa.secret|Ghardaïa.secret]] 
+
+### #is_/same_as :: [Ghardaïa](/_Standards/Earth/Continent/Africa/Africa~North/Algeria/provinces~Algeria/Ghardaïa.md) 
+
+### #is_/same_as :: [Ghardaïa.public](/_public/Earth/Continent/Africa/Africa~North/Algeria/provinces~Algeria/Ghardaïa.public.md) 
+
+### #is_/same_as :: [Ghardaïa.internal](/_internal/Earth/Continent/Africa/Africa~North/Algeria/provinces~Algeria/Ghardaïa.internal.md) 
+
+### #is_/same_as :: [Ghardaïa.protect](/_protect/Earth/Continent/Africa/Africa~North/Algeria/provinces~Algeria/Ghardaïa.protect.md) 
+
+### #is_/same_as :: [Ghardaïa.private](/_private/Earth/Continent/Africa/Africa~North/Algeria/provinces~Algeria/Ghardaïa.private.md) 
+
+### #is_/same_as :: [Ghardaïa.personal](/_personal/Earth/Continent/Africa/Africa~North/Algeria/provinces~Algeria/Ghardaïa.personal.md) 
+
+### #is_/same_as :: [Ghardaïa.secret](/_secret/Earth/Continent/Africa/Africa~North/Algeria/provinces~Algeria/Ghardaïa.secret.md)
 

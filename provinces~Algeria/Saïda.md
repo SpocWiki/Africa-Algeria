@@ -40,11 +40,18 @@ markerFolder: ./Saïda/
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../../../_Standards/geo/Continent/Africa/Algeria/Counties/Saïda|Saïda]] 
-- [[../../../../../../_public/geo/Continent/Africa/Algeria/Counties/Saïda.public|Saïda.public]] 
-- [[../../../../../../_internal/geo/Continent/Africa/Algeria/Counties/Saïda.internal|Saïda.internal]] 
-- [[../../../../../../_protect/geo/Continent/Africa/Algeria/Counties/Saïda.protect|Saïda.protect]] 
-- [[../../../../../../_private/geo/Continent/Africa/Algeria/Counties/Saïda.private|Saïda.private]] 
-- [[../../../../../../_personal/geo/Continent/Africa/Algeria/Counties/Saïda.personal|Saïda.personal]] 
-- [[../../../../../../_secret/geo/Continent/Africa/Algeria/Counties/Saïda.secret|Saïda.secret]] 
+
+### #is_/same_as :: [Saïda](/_Standards/Earth/Continent/Africa/Africa~North/Algeria/provinces~Algeria/Saïda.md) 
+
+### #is_/same_as :: [Saïda.public](/_public/Earth/Continent/Africa/Africa~North/Algeria/provinces~Algeria/Saïda.public.md) 
+
+### #is_/same_as :: [Saïda.internal](/_internal/Earth/Continent/Africa/Africa~North/Algeria/provinces~Algeria/Saïda.internal.md) 
+
+### #is_/same_as :: [Saïda.protect](/_protect/Earth/Continent/Africa/Africa~North/Algeria/provinces~Algeria/Saïda.protect.md) 
+
+### #is_/same_as :: [Saïda.private](/_private/Earth/Continent/Africa/Africa~North/Algeria/provinces~Algeria/Saïda.private.md) 
+
+### #is_/same_as :: [Saïda.personal](/_personal/Earth/Continent/Africa/Africa~North/Algeria/provinces~Algeria/Saïda.personal.md) 
+
+### #is_/same_as :: [Saïda.secret](/_secret/Earth/Continent/Africa/Africa~North/Algeria/provinces~Algeria/Saïda.secret.md)
 

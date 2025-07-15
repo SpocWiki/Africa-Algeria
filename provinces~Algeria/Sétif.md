@@ -40,11 +40,18 @@ markerFolder: ./Sétif/
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../../../_Standards/geo/Continent/Africa/Algeria/Counties/Sétif|Sétif]] 
-- [[../../../../../../_public/geo/Continent/Africa/Algeria/Counties/Sétif.public|Sétif.public]] 
-- [[../../../../../../_internal/geo/Continent/Africa/Algeria/Counties/Sétif.internal|Sétif.internal]] 
-- [[../../../../../../_protect/geo/Continent/Africa/Algeria/Counties/Sétif.protect|Sétif.protect]] 
-- [[../../../../../../_private/geo/Continent/Africa/Algeria/Counties/Sétif.private|Sétif.private]] 
-- [[../../../../../../_personal/geo/Continent/Africa/Algeria/Counties/Sétif.personal|Sétif.personal]] 
-- [[../../../../../../_secret/geo/Continent/Africa/Algeria/Counties/Sétif.secret|Sétif.secret]] 
+
+### #is_/same_as :: [Sétif](/_Standards/Earth/Continent/Africa/Africa~North/Algeria/provinces~Algeria/Sétif.md) 
+
+### #is_/same_as :: [Sétif.public](/_public/Earth/Continent/Africa/Africa~North/Algeria/provinces~Algeria/Sétif.public.md) 
+
+### #is_/same_as :: [Sétif.internal](/_internal/Earth/Continent/Africa/Africa~North/Algeria/provinces~Algeria/Sétif.internal.md) 
+
+### #is_/same_as :: [Sétif.protect](/_protect/Earth/Continent/Africa/Africa~North/Algeria/provinces~Algeria/Sétif.protect.md) 
+
+### #is_/same_as :: [Sétif.private](/_private/Earth/Continent/Africa/Africa~North/Algeria/provinces~Algeria/Sétif.private.md) 
+
+### #is_/same_as :: [Sétif.personal](/_personal/Earth/Continent/Africa/Africa~North/Algeria/provinces~Algeria/Sétif.personal.md) 
+
+### #is_/same_as :: [Sétif.secret](/_secret/Earth/Continent/Africa/Africa~North/Algeria/provinces~Algeria/Sétif.secret.md)
 

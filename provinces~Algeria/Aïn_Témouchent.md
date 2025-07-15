@@ -40,11 +40,18 @@ markerFolder: ./Aïn_Témouchent/
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../../../_Standards/geo/Continent/Africa/Algeria/Counties/Aïn_Témouchent|Aïn_Témouchent]] 
-- [[../../../../../../_public/geo/Continent/Africa/Algeria/Counties/Aïn_Témouchent.public|Aïn_Témouchent.public]] 
-- [[../../../../../../_internal/geo/Continent/Africa/Algeria/Counties/Aïn_Témouchent.internal|Aïn_Témouchent.internal]] 
-- [[../../../../../../_protect/geo/Continent/Africa/Algeria/Counties/Aïn_Témouchent.protect|Aïn_Témouchent.protect]] 
-- [[../../../../../../_private/geo/Continent/Africa/Algeria/Counties/Aïn_Témouchent.private|Aïn_Témouchent.private]] 
-- [[../../../../../../_personal/geo/Continent/Africa/Algeria/Counties/Aïn_Témouchent.personal|Aïn_Témouchent.personal]] 
-- [[../../../../../../_secret/geo/Continent/Africa/Algeria/Counties/Aïn_Témouchent.secret|Aïn_Témouchent.secret]] 
+
+### #is_/same_as :: [Aïn_Témouchent](/_Standards/Earth/Continent/Africa/Africa~North/Algeria/provinces~Algeria/Aïn_Témouchent.md) 
+
+### #is_/same_as :: [Aïn_Témouchent.public](/_public/Earth/Continent/Africa/Africa~North/Algeria/provinces~Algeria/Aïn_Témouchent.public.md) 
+
+### #is_/same_as :: [Aïn_Témouchent.internal](/_internal/Earth/Continent/Africa/Africa~North/Algeria/provinces~Algeria/Aïn_Témouchent.internal.md) 
+
+### #is_/same_as :: [Aïn_Témouchent.protect](/_protect/Earth/Continent/Africa/Africa~North/Algeria/provinces~Algeria/Aïn_Témouchent.protect.md) 
+
+### #is_/same_as :: [Aïn_Témouchent.private](/_private/Earth/Continent/Africa/Africa~North/Algeria/provinces~Algeria/Aïn_Témouchent.private.md) 
+
+### #is_/same_as :: [Aïn_Témouchent.personal](/_personal/Earth/Continent/Africa/Africa~North/Algeria/provinces~Algeria/Aïn_Témouchent.personal.md) 
+
+### #is_/same_as :: [Aïn_Témouchent.secret](/_secret/Earth/Continent/Africa/Africa~North/Algeria/provinces~Algeria/Aïn_Témouchent.secret.md)
 

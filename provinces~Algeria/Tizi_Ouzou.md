@@ -40,11 +40,18 @@ markerFolder: ./Tizi_Ouzou/
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../../../_Standards/geo/Continent/Africa/Algeria/Counties/Tizi_Ouzou|Tizi_Ouzou]] 
-- [[../../../../../../_public/geo/Continent/Africa/Algeria/Counties/Tizi_Ouzou.public|Tizi_Ouzou.public]] 
-- [[../../../../../../_internal/geo/Continent/Africa/Algeria/Counties/Tizi_Ouzou.internal|Tizi_Ouzou.internal]] 
-- [[../../../../../../_protect/geo/Continent/Africa/Algeria/Counties/Tizi_Ouzou.protect|Tizi_Ouzou.protect]] 
-- [[../../../../../../_private/geo/Continent/Africa/Algeria/Counties/Tizi_Ouzou.private|Tizi_Ouzou.private]] 
-- [[../../../../../../_personal/geo/Continent/Africa/Algeria/Counties/Tizi_Ouzou.personal|Tizi_Ouzou.personal]] 
-- [[../../../../../../_secret/geo/Continent/Africa/Algeria/Counties/Tizi_Ouzou.secret|Tizi_Ouzou.secret]] 
+
+### #is_/same_as :: [Tizi_Ouzou](/_Standards/Earth/Continent/Africa/Africa~North/Algeria/provinces~Algeria/Tizi_Ouzou.md) 
+
+### #is_/same_as :: [Tizi_Ouzou.public](/_public/Earth/Continent/Africa/Africa~North/Algeria/provinces~Algeria/Tizi_Ouzou.public.md) 
+
+### #is_/same_as :: [Tizi_Ouzou.internal](/_internal/Earth/Continent/Africa/Africa~North/Algeria/provinces~Algeria/Tizi_Ouzou.internal.md) 
+
+### #is_/same_as :: [Tizi_Ouzou.protect](/_protect/Earth/Continent/Africa/Africa~North/Algeria/provinces~Algeria/Tizi_Ouzou.protect.md) 
+
+### #is_/same_as :: [Tizi_Ouzou.private](/_private/Earth/Continent/Africa/Africa~North/Algeria/provinces~Algeria/Tizi_Ouzou.private.md) 
+
+### #is_/same_as :: [Tizi_Ouzou.personal](/_personal/Earth/Continent/Africa/Africa~North/Algeria/provinces~Algeria/Tizi_Ouzou.personal.md) 
+
+### #is_/same_as :: [Tizi_Ouzou.secret](/_secret/Earth/Continent/Africa/Africa~North/Algeria/provinces~Algeria/Tizi_Ouzou.secret.md)
 

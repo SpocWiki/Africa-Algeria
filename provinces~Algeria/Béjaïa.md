@@ -40,11 +40,18 @@ markerFolder: ./Béjaïa/
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../../../_Standards/geo/Continent/Africa/Algeria/Counties/Béjaïa|Béjaïa]] 
-- [[../../../../../../_public/geo/Continent/Africa/Algeria/Counties/Béjaïa.public|Béjaïa.public]] 
-- [[../../../../../../_internal/geo/Continent/Africa/Algeria/Counties/Béjaïa.internal|Béjaïa.internal]] 
-- [[../../../../../../_protect/geo/Continent/Africa/Algeria/Counties/Béjaïa.protect|Béjaïa.protect]] 
-- [[../../../../../../_private/geo/Continent/Africa/Algeria/Counties/Béjaïa.private|Béjaïa.private]] 
-- [[../../../../../../_personal/geo/Continent/Africa/Algeria/Counties/Béjaïa.personal|Béjaïa.personal]] 
-- [[../../../../../../_secret/geo/Continent/Africa/Algeria/Counties/Béjaïa.secret|Béjaïa.secret]] 
+
+### #is_/same_as :: [Béjaïa](/_Standards/Earth/Continent/Africa/Africa~North/Algeria/provinces~Algeria/Béjaïa.md) 
+
+### #is_/same_as :: [Béjaïa.public](/_public/Earth/Continent/Africa/Africa~North/Algeria/provinces~Algeria/Béjaïa.public.md) 
+
+### #is_/same_as :: [Béjaïa.internal](/_internal/Earth/Continent/Africa/Africa~North/Algeria/provinces~Algeria/Béjaïa.internal.md) 
+
+### #is_/same_as :: [Béjaïa.protect](/_protect/Earth/Continent/Africa/Africa~North/Algeria/provinces~Algeria/Béjaïa.protect.md) 
+
+### #is_/same_as :: [Béjaïa.private](/_private/Earth/Continent/Africa/Africa~North/Algeria/provinces~Algeria/Béjaïa.private.md) 
+
+### #is_/same_as :: [Béjaïa.personal](/_personal/Earth/Continent/Africa/Africa~North/Algeria/provinces~Algeria/Béjaïa.personal.md) 
+
+### #is_/same_as :: [Béjaïa.secret](/_secret/Earth/Continent/Africa/Africa~North/Algeria/provinces~Algeria/Béjaïa.secret.md)
 

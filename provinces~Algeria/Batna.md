@@ -40,11 +40,18 @@ markerFolder: ./Batna/
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../../../_Standards/geo/Continent/Africa/Algeria/Counties/Batna|Batna]] 
-- [[../../../../../../_public/geo/Continent/Africa/Algeria/Counties/Batna.public|Batna.public]] 
-- [[../../../../../../_internal/geo/Continent/Africa/Algeria/Counties/Batna.internal|Batna.internal]] 
-- [[../../../../../../_protect/geo/Continent/Africa/Algeria/Counties/Batna.protect|Batna.protect]] 
-- [[../../../../../../_private/geo/Continent/Africa/Algeria/Counties/Batna.private|Batna.private]] 
-- [[../../../../../../_personal/geo/Continent/Africa/Algeria/Counties/Batna.personal|Batna.personal]] 
-- [[../../../../../../_secret/geo/Continent/Africa/Algeria/Counties/Batna.secret|Batna.secret]] 
+
+### #is_/same_as :: [Batna](/_Standards/Earth/Continent/Africa/Africa~North/Algeria/provinces~Algeria/Batna.md) 
+
+### #is_/same_as :: [Batna.public](/_public/Earth/Continent/Africa/Africa~North/Algeria/provinces~Algeria/Batna.public.md) 
+
+### #is_/same_as :: [Batna.internal](/_internal/Earth/Continent/Africa/Africa~North/Algeria/provinces~Algeria/Batna.internal.md) 
+
+### #is_/same_as :: [Batna.protect](/_protect/Earth/Continent/Africa/Africa~North/Algeria/provinces~Algeria/Batna.protect.md) 
+
+### #is_/same_as :: [Batna.private](/_private/Earth/Continent/Africa/Africa~North/Algeria/provinces~Algeria/Batna.private.md) 
+
+### #is_/same_as :: [Batna.personal](/_personal/Earth/Continent/Africa/Africa~North/Algeria/provinces~Algeria/Batna.personal.md) 
+
+### #is_/same_as :: [Batna.secret](/_secret/Earth/Continent/Africa/Africa~North/Algeria/provinces~Algeria/Batna.secret.md)
 

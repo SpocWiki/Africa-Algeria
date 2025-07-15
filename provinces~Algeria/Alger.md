@@ -40,11 +40,18 @@ markerFolder: ./Alger/
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../../../_Standards/geo/Continent/Africa/Algeria/Counties/Alger|Alger]] 
-- [[../../../../../../_public/geo/Continent/Africa/Algeria/Counties/Alger.public|Alger.public]] 
-- [[../../../../../../_internal/geo/Continent/Africa/Algeria/Counties/Alger.internal|Alger.internal]] 
-- [[../../../../../../_protect/geo/Continent/Africa/Algeria/Counties/Alger.protect|Alger.protect]] 
-- [[../../../../../../_private/geo/Continent/Africa/Algeria/Counties/Alger.private|Alger.private]] 
-- [[../../../../../../_personal/geo/Continent/Africa/Algeria/Counties/Alger.personal|Alger.personal]] 
-- [[../../../../../../_secret/geo/Continent/Africa/Algeria/Counties/Alger.secret|Alger.secret]] 
+
+### #is_/same_as :: [Alger](/_Standards/Earth/Continent/Africa/Africa~North/Algeria/provinces~Algeria/Alger.md) 
+
+### #is_/same_as :: [Alger.public](/_public/Earth/Continent/Africa/Africa~North/Algeria/provinces~Algeria/Alger.public.md) 
+
+### #is_/same_as :: [Alger.internal](/_internal/Earth/Continent/Africa/Africa~North/Algeria/provinces~Algeria/Alger.internal.md) 
+
+### #is_/same_as :: [Alger.protect](/_protect/Earth/Continent/Africa/Africa~North/Algeria/provinces~Algeria/Alger.protect.md) 
+
+### #is_/same_as :: [Alger.private](/_private/Earth/Continent/Africa/Africa~North/Algeria/provinces~Algeria/Alger.private.md) 
+
+### #is_/same_as :: [Alger.personal](/_personal/Earth/Continent/Africa/Africa~North/Algeria/provinces~Algeria/Alger.personal.md) 
+
+### #is_/same_as :: [Alger.secret](/_secret/Earth/Continent/Africa/Africa~North/Algeria/provinces~Algeria/Alger.secret.md)
 

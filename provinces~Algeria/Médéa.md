@@ -40,11 +40,18 @@ markerFolder: ./Médéa/
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../../../_Standards/geo/Continent/Africa/Algeria/Counties/Médéa|Médéa]] 
-- [[../../../../../../_public/geo/Continent/Africa/Algeria/Counties/Médéa.public|Médéa.public]] 
-- [[../../../../../../_internal/geo/Continent/Africa/Algeria/Counties/Médéa.internal|Médéa.internal]] 
-- [[../../../../../../_protect/geo/Continent/Africa/Algeria/Counties/Médéa.protect|Médéa.protect]] 
-- [[../../../../../../_private/geo/Continent/Africa/Algeria/Counties/Médéa.private|Médéa.private]] 
-- [[../../../../../../_personal/geo/Continent/Africa/Algeria/Counties/Médéa.personal|Médéa.personal]] 
-- [[../../../../../../_secret/geo/Continent/Africa/Algeria/Counties/Médéa.secret|Médéa.secret]] 
+
+### #is_/same_as :: [Médéa](/_Standards/Earth/Continent/Africa/Africa~North/Algeria/provinces~Algeria/Médéa.md) 
+
+### #is_/same_as :: [Médéa.public](/_public/Earth/Continent/Africa/Africa~North/Algeria/provinces~Algeria/Médéa.public.md) 
+
+### #is_/same_as :: [Médéa.internal](/_internal/Earth/Continent/Africa/Africa~North/Algeria/provinces~Algeria/Médéa.internal.md) 
+
+### #is_/same_as :: [Médéa.protect](/_protect/Earth/Continent/Africa/Africa~North/Algeria/provinces~Algeria/Médéa.protect.md) 
+
+### #is_/same_as :: [Médéa.private](/_private/Earth/Continent/Africa/Africa~North/Algeria/provinces~Algeria/Médéa.private.md) 
+
+### #is_/same_as :: [Médéa.personal](/_personal/Earth/Continent/Africa/Africa~North/Algeria/provinces~Algeria/Médéa.personal.md) 
+
+### #is_/same_as :: [Médéa.secret](/_secret/Earth/Continent/Africa/Africa~North/Algeria/provinces~Algeria/Médéa.secret.md)
 

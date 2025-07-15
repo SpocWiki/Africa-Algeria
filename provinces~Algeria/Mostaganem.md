@@ -40,11 +40,18 @@ markerFolder: ./Mostaganem/
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../../../_Standards/geo/Continent/Africa/Algeria/Counties/Mostaganem|Mostaganem]] 
-- [[../../../../../../_public/geo/Continent/Africa/Algeria/Counties/Mostaganem.public|Mostaganem.public]] 
-- [[../../../../../../_internal/geo/Continent/Africa/Algeria/Counties/Mostaganem.internal|Mostaganem.internal]] 
-- [[../../../../../../_protect/geo/Continent/Africa/Algeria/Counties/Mostaganem.protect|Mostaganem.protect]] 
-- [[../../../../../../_private/geo/Continent/Africa/Algeria/Counties/Mostaganem.private|Mostaganem.private]] 
-- [[../../../../../../_personal/geo/Continent/Africa/Algeria/Counties/Mostaganem.personal|Mostaganem.personal]] 
-- [[../../../../../../_secret/geo/Continent/Africa/Algeria/Counties/Mostaganem.secret|Mostaganem.secret]] 
+
+### #is_/same_as :: [Mostaganem](/_Standards/Earth/Continent/Africa/Africa~North/Algeria/provinces~Algeria/Mostaganem.md) 
+
+### #is_/same_as :: [Mostaganem.public](/_public/Earth/Continent/Africa/Africa~North/Algeria/provinces~Algeria/Mostaganem.public.md) 
+
+### #is_/same_as :: [Mostaganem.internal](/_internal/Earth/Continent/Africa/Africa~North/Algeria/provinces~Algeria/Mostaganem.internal.md) 
+
+### #is_/same_as :: [Mostaganem.protect](/_protect/Earth/Continent/Africa/Africa~North/Algeria/provinces~Algeria/Mostaganem.protect.md) 
+
+### #is_/same_as :: [Mostaganem.private](/_private/Earth/Continent/Africa/Africa~North/Algeria/provinces~Algeria/Mostaganem.private.md) 
+
+### #is_/same_as :: [Mostaganem.personal](/_personal/Earth/Continent/Africa/Africa~North/Algeria/provinces~Algeria/Mostaganem.personal.md) 
+
+### #is_/same_as :: [Mostaganem.secret](/_secret/Earth/Continent/Africa/Africa~North/Algeria/provinces~Algeria/Mostaganem.secret.md)
 

@@ -40,11 +40,18 @@ markerFolder: ./Chlef/
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../../../_Standards/geo/Continent/Africa/Algeria/Counties/Chlef|Chlef]] 
-- [[../../../../../../_public/geo/Continent/Africa/Algeria/Counties/Chlef.public|Chlef.public]] 
-- [[../../../../../../_internal/geo/Continent/Africa/Algeria/Counties/Chlef.internal|Chlef.internal]] 
-- [[../../../../../../_protect/geo/Continent/Africa/Algeria/Counties/Chlef.protect|Chlef.protect]] 
-- [[../../../../../../_private/geo/Continent/Africa/Algeria/Counties/Chlef.private|Chlef.private]] 
-- [[../../../../../../_personal/geo/Continent/Africa/Algeria/Counties/Chlef.personal|Chlef.personal]] 
-- [[../../../../../../_secret/geo/Continent/Africa/Algeria/Counties/Chlef.secret|Chlef.secret]] 
+
+### #is_/same_as :: [Chlef](/_Standards/Earth/Continent/Africa/Africa~North/Algeria/provinces~Algeria/Chlef.md) 
+
+### #is_/same_as :: [Chlef.public](/_public/Earth/Continent/Africa/Africa~North/Algeria/provinces~Algeria/Chlef.public.md) 
+
+### #is_/same_as :: [Chlef.internal](/_internal/Earth/Continent/Africa/Africa~North/Algeria/provinces~Algeria/Chlef.internal.md) 
+
+### #is_/same_as :: [Chlef.protect](/_protect/Earth/Continent/Africa/Africa~North/Algeria/provinces~Algeria/Chlef.protect.md) 
+
+### #is_/same_as :: [Chlef.private](/_private/Earth/Continent/Africa/Africa~North/Algeria/provinces~Algeria/Chlef.private.md) 
+
+### #is_/same_as :: [Chlef.personal](/_personal/Earth/Continent/Africa/Africa~North/Algeria/provinces~Algeria/Chlef.personal.md) 
+
+### #is_/same_as :: [Chlef.secret](/_secret/Earth/Continent/Africa/Africa~North/Algeria/provinces~Algeria/Chlef.secret.md)
 

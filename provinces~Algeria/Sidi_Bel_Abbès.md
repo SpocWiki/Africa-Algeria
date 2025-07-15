@@ -40,11 +40,18 @@ markerFolder: ./Sidi_Bel_Abbès/
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../../../_Standards/geo/Continent/Africa/Algeria/Counties/Sidi_Bel_Abbès|Sidi_Bel_Abbès]] 
-- [[../../../../../../_public/geo/Continent/Africa/Algeria/Counties/Sidi_Bel_Abbès.public|Sidi_Bel_Abbès.public]] 
-- [[../../../../../../_internal/geo/Continent/Africa/Algeria/Counties/Sidi_Bel_Abbès.internal|Sidi_Bel_Abbès.internal]] 
-- [[../../../../../../_protect/geo/Continent/Africa/Algeria/Counties/Sidi_Bel_Abbès.protect|Sidi_Bel_Abbès.protect]] 
-- [[../../../../../../_private/geo/Continent/Africa/Algeria/Counties/Sidi_Bel_Abbès.private|Sidi_Bel_Abbès.private]] 
-- [[../../../../../../_personal/geo/Continent/Africa/Algeria/Counties/Sidi_Bel_Abbès.personal|Sidi_Bel_Abbès.personal]] 
-- [[../../../../../../_secret/geo/Continent/Africa/Algeria/Counties/Sidi_Bel_Abbès.secret|Sidi_Bel_Abbès.secret]] 
+
+### #is_/same_as :: [Sidi_Bel_Abbès](/_Standards/Earth/Continent/Africa/Africa~North/Algeria/provinces~Algeria/Sidi_Bel_Abbès.md) 
+
+### #is_/same_as :: [Sidi_Bel_Abbès.public](/_public/Earth/Continent/Africa/Africa~North/Algeria/provinces~Algeria/Sidi_Bel_Abbès.public.md) 
+
+### #is_/same_as :: [Sidi_Bel_Abbès.internal](/_internal/Earth/Continent/Africa/Africa~North/Algeria/provinces~Algeria/Sidi_Bel_Abbès.internal.md) 
+
+### #is_/same_as :: [Sidi_Bel_Abbès.protect](/_protect/Earth/Continent/Africa/Africa~North/Algeria/provinces~Algeria/Sidi_Bel_Abbès.protect.md) 
+
+### #is_/same_as :: [Sidi_Bel_Abbès.private](/_private/Earth/Continent/Africa/Africa~North/Algeria/provinces~Algeria/Sidi_Bel_Abbès.private.md) 
+
+### #is_/same_as :: [Sidi_Bel_Abbès.personal](/_personal/Earth/Continent/Africa/Africa~North/Algeria/provinces~Algeria/Sidi_Bel_Abbès.personal.md) 
+
+### #is_/same_as :: [Sidi_Bel_Abbès.secret](/_secret/Earth/Continent/Africa/Africa~North/Algeria/provinces~Algeria/Sidi_Bel_Abbès.secret.md)
 

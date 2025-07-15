@@ -40,11 +40,18 @@ markerFolder: ./Tipaza/
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../../../_Standards/geo/Continent/Africa/Algeria/Counties/Tipaza|Tipaza]] 
-- [[../../../../../../_public/geo/Continent/Africa/Algeria/Counties/Tipaza.public|Tipaza.public]] 
-- [[../../../../../../_internal/geo/Continent/Africa/Algeria/Counties/Tipaza.internal|Tipaza.internal]] 
-- [[../../../../../../_protect/geo/Continent/Africa/Algeria/Counties/Tipaza.protect|Tipaza.protect]] 
-- [[../../../../../../_private/geo/Continent/Africa/Algeria/Counties/Tipaza.private|Tipaza.private]] 
-- [[../../../../../../_personal/geo/Continent/Africa/Algeria/Counties/Tipaza.personal|Tipaza.personal]] 
-- [[../../../../../../_secret/geo/Continent/Africa/Algeria/Counties/Tipaza.secret|Tipaza.secret]] 
+
+### #is_/same_as :: [Tipaza](/_Standards/Earth/Continent/Africa/Africa~North/Algeria/provinces~Algeria/Tipaza.md) 
+
+### #is_/same_as :: [Tipaza.public](/_public/Earth/Continent/Africa/Africa~North/Algeria/provinces~Algeria/Tipaza.public.md) 
+
+### #is_/same_as :: [Tipaza.internal](/_internal/Earth/Continent/Africa/Africa~North/Algeria/provinces~Algeria/Tipaza.internal.md) 
+
+### #is_/same_as :: [Tipaza.protect](/_protect/Earth/Continent/Africa/Africa~North/Algeria/provinces~Algeria/Tipaza.protect.md) 
+
+### #is_/same_as :: [Tipaza.private](/_private/Earth/Continent/Africa/Africa~North/Algeria/provinces~Algeria/Tipaza.private.md) 
+
+### #is_/same_as :: [Tipaza.personal](/_personal/Earth/Continent/Africa/Africa~North/Algeria/provinces~Algeria/Tipaza.personal.md) 
+
+### #is_/same_as :: [Tipaza.secret](/_secret/Earth/Continent/Africa/Africa~North/Algeria/provinces~Algeria/Tipaza.secret.md)
 

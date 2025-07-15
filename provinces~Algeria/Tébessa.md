@@ -40,11 +40,18 @@ markerFolder: ./Tébessa/
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../../../_Standards/geo/Continent/Africa/Algeria/Counties/Tébessa|Tébessa]] 
-- [[../../../../../../_public/geo/Continent/Africa/Algeria/Counties/Tébessa.public|Tébessa.public]] 
-- [[../../../../../../_internal/geo/Continent/Africa/Algeria/Counties/Tébessa.internal|Tébessa.internal]] 
-- [[../../../../../../_protect/geo/Continent/Africa/Algeria/Counties/Tébessa.protect|Tébessa.protect]] 
-- [[../../../../../../_private/geo/Continent/Africa/Algeria/Counties/Tébessa.private|Tébessa.private]] 
-- [[../../../../../../_personal/geo/Continent/Africa/Algeria/Counties/Tébessa.personal|Tébessa.personal]] 
-- [[../../../../../../_secret/geo/Continent/Africa/Algeria/Counties/Tébessa.secret|Tébessa.secret]] 
+
+### #is_/same_as :: [Tébessa](/_Standards/Earth/Continent/Africa/Africa~North/Algeria/provinces~Algeria/Tébessa.md) 
+
+### #is_/same_as :: [Tébessa.public](/_public/Earth/Continent/Africa/Africa~North/Algeria/provinces~Algeria/Tébessa.public.md) 
+
+### #is_/same_as :: [Tébessa.internal](/_internal/Earth/Continent/Africa/Africa~North/Algeria/provinces~Algeria/Tébessa.internal.md) 
+
+### #is_/same_as :: [Tébessa.protect](/_protect/Earth/Continent/Africa/Africa~North/Algeria/provinces~Algeria/Tébessa.protect.md) 
+
+### #is_/same_as :: [Tébessa.private](/_private/Earth/Continent/Africa/Africa~North/Algeria/provinces~Algeria/Tébessa.private.md) 
+
+### #is_/same_as :: [Tébessa.personal](/_personal/Earth/Continent/Africa/Africa~North/Algeria/provinces~Algeria/Tébessa.personal.md) 
+
+### #is_/same_as :: [Tébessa.secret](/_secret/Earth/Continent/Africa/Africa~North/Algeria/provinces~Algeria/Tébessa.secret.md)
 

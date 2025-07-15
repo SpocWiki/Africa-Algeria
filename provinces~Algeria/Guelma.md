@@ -40,11 +40,18 @@ markerFolder: ./Guelma/
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../../../_Standards/geo/Continent/Africa/Algeria/Counties/Guelma|Guelma]] 
-- [[../../../../../../_public/geo/Continent/Africa/Algeria/Counties/Guelma.public|Guelma.public]] 
-- [[../../../../../../_internal/geo/Continent/Africa/Algeria/Counties/Guelma.internal|Guelma.internal]] 
-- [[../../../../../../_protect/geo/Continent/Africa/Algeria/Counties/Guelma.protect|Guelma.protect]] 
-- [[../../../../../../_private/geo/Continent/Africa/Algeria/Counties/Guelma.private|Guelma.private]] 
-- [[../../../../../../_personal/geo/Continent/Africa/Algeria/Counties/Guelma.personal|Guelma.personal]] 
-- [[../../../../../../_secret/geo/Continent/Africa/Algeria/Counties/Guelma.secret|Guelma.secret]] 
+
+### #is_/same_as :: [Guelma](/_Standards/Earth/Continent/Africa/Africa~North/Algeria/provinces~Algeria/Guelma.md) 
+
+### #is_/same_as :: [Guelma.public](/_public/Earth/Continent/Africa/Africa~North/Algeria/provinces~Algeria/Guelma.public.md) 
+
+### #is_/same_as :: [Guelma.internal](/_internal/Earth/Continent/Africa/Africa~North/Algeria/provinces~Algeria/Guelma.internal.md) 
+
+### #is_/same_as :: [Guelma.protect](/_protect/Earth/Continent/Africa/Africa~North/Algeria/provinces~Algeria/Guelma.protect.md) 
+
+### #is_/same_as :: [Guelma.private](/_private/Earth/Continent/Africa/Africa~North/Algeria/provinces~Algeria/Guelma.private.md) 
+
+### #is_/same_as :: [Guelma.personal](/_personal/Earth/Continent/Africa/Africa~North/Algeria/provinces~Algeria/Guelma.personal.md) 
+
+### #is_/same_as :: [Guelma.secret](/_secret/Earth/Continent/Africa/Africa~North/Algeria/provinces~Algeria/Guelma.secret.md)
 

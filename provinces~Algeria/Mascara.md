@@ -40,11 +40,18 @@ markerFolder: ./Mascara/
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../../../_Standards/geo/Continent/Africa/Algeria/Counties/Mascara|Mascara]] 
-- [[../../../../../../_public/geo/Continent/Africa/Algeria/Counties/Mascara.public|Mascara.public]] 
-- [[../../../../../../_internal/geo/Continent/Africa/Algeria/Counties/Mascara.internal|Mascara.internal]] 
-- [[../../../../../../_protect/geo/Continent/Africa/Algeria/Counties/Mascara.protect|Mascara.protect]] 
-- [[../../../../../../_private/geo/Continent/Africa/Algeria/Counties/Mascara.private|Mascara.private]] 
-- [[../../../../../../_personal/geo/Continent/Africa/Algeria/Counties/Mascara.personal|Mascara.personal]] 
-- [[../../../../../../_secret/geo/Continent/Africa/Algeria/Counties/Mascara.secret|Mascara.secret]] 
+
+### #is_/same_as :: [Mascara](/_Standards/Earth/Continent/Africa/Africa~North/Algeria/provinces~Algeria/Mascara.md) 
+
+### #is_/same_as :: [Mascara.public](/_public/Earth/Continent/Africa/Africa~North/Algeria/provinces~Algeria/Mascara.public.md) 
+
+### #is_/same_as :: [Mascara.internal](/_internal/Earth/Continent/Africa/Africa~North/Algeria/provinces~Algeria/Mascara.internal.md) 
+
+### #is_/same_as :: [Mascara.protect](/_protect/Earth/Continent/Africa/Africa~North/Algeria/provinces~Algeria/Mascara.protect.md) 
+
+### #is_/same_as :: [Mascara.private](/_private/Earth/Continent/Africa/Africa~North/Algeria/provinces~Algeria/Mascara.private.md) 
+
+### #is_/same_as :: [Mascara.personal](/_personal/Earth/Continent/Africa/Africa~North/Algeria/provinces~Algeria/Mascara.personal.md) 
+
+### #is_/same_as :: [Mascara.secret](/_secret/Earth/Continent/Africa/Africa~North/Algeria/provinces~Algeria/Mascara.secret.md)
 

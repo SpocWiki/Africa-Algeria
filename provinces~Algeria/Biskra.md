@@ -40,11 +40,18 @@ markerFolder: ./Biskra/
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../../../_Standards/geo/Continent/Africa/Algeria/Counties/Biskra|Biskra]] 
-- [[../../../../../../_public/geo/Continent/Africa/Algeria/Counties/Biskra.public|Biskra.public]] 
-- [[../../../../../../_internal/geo/Continent/Africa/Algeria/Counties/Biskra.internal|Biskra.internal]] 
-- [[../../../../../../_protect/geo/Continent/Africa/Algeria/Counties/Biskra.protect|Biskra.protect]] 
-- [[../../../../../../_private/geo/Continent/Africa/Algeria/Counties/Biskra.private|Biskra.private]] 
-- [[../../../../../../_personal/geo/Continent/Africa/Algeria/Counties/Biskra.personal|Biskra.personal]] 
-- [[../../../../../../_secret/geo/Continent/Africa/Algeria/Counties/Biskra.secret|Biskra.secret]] 
+
+### #is_/same_as :: [Biskra](/_Standards/Earth/Continent/Africa/Africa~North/Algeria/provinces~Algeria/Biskra.md) 
+
+### #is_/same_as :: [Biskra.public](/_public/Earth/Continent/Africa/Africa~North/Algeria/provinces~Algeria/Biskra.public.md) 
+
+### #is_/same_as :: [Biskra.internal](/_internal/Earth/Continent/Africa/Africa~North/Algeria/provinces~Algeria/Biskra.internal.md) 
+
+### #is_/same_as :: [Biskra.protect](/_protect/Earth/Continent/Africa/Africa~North/Algeria/provinces~Algeria/Biskra.protect.md) 
+
+### #is_/same_as :: [Biskra.private](/_private/Earth/Continent/Africa/Africa~North/Algeria/provinces~Algeria/Biskra.private.md) 
+
+### #is_/same_as :: [Biskra.personal](/_personal/Earth/Continent/Africa/Africa~North/Algeria/provinces~Algeria/Biskra.personal.md) 
+
+### #is_/same_as :: [Biskra.secret](/_secret/Earth/Continent/Africa/Africa~North/Algeria/provinces~Algeria/Biskra.secret.md)
 

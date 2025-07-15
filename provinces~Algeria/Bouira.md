@@ -40,11 +40,18 @@ markerFolder: ./Bouira/
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../../../_Standards/geo/Continent/Africa/Algeria/Counties/Bouira|Bouira]] 
-- [[../../../../../../_public/geo/Continent/Africa/Algeria/Counties/Bouira.public|Bouira.public]] 
-- [[../../../../../../_internal/geo/Continent/Africa/Algeria/Counties/Bouira.internal|Bouira.internal]] 
-- [[../../../../../../_protect/geo/Continent/Africa/Algeria/Counties/Bouira.protect|Bouira.protect]] 
-- [[../../../../../../_private/geo/Continent/Africa/Algeria/Counties/Bouira.private|Bouira.private]] 
-- [[../../../../../../_personal/geo/Continent/Africa/Algeria/Counties/Bouira.personal|Bouira.personal]] 
-- [[../../../../../../_secret/geo/Continent/Africa/Algeria/Counties/Bouira.secret|Bouira.secret]] 
+
+### #is_/same_as :: [Bouira](/_Standards/Earth/Continent/Africa/Africa~North/Algeria/provinces~Algeria/Bouira.md) 
+
+### #is_/same_as :: [Bouira.public](/_public/Earth/Continent/Africa/Africa~North/Algeria/provinces~Algeria/Bouira.public.md) 
+
+### #is_/same_as :: [Bouira.internal](/_internal/Earth/Continent/Africa/Africa~North/Algeria/provinces~Algeria/Bouira.internal.md) 
+
+### #is_/same_as :: [Bouira.protect](/_protect/Earth/Continent/Africa/Africa~North/Algeria/provinces~Algeria/Bouira.protect.md) 
+
+### #is_/same_as :: [Bouira.private](/_private/Earth/Continent/Africa/Africa~North/Algeria/provinces~Algeria/Bouira.private.md) 
+
+### #is_/same_as :: [Bouira.personal](/_personal/Earth/Continent/Africa/Africa~North/Algeria/provinces~Algeria/Bouira.personal.md) 
+
+### #is_/same_as :: [Bouira.secret](/_secret/Earth/Continent/Africa/Africa~North/Algeria/provinces~Algeria/Bouira.secret.md)
 

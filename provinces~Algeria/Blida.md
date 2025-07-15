@@ -40,11 +40,18 @@ markerFolder: ./Blida/
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../../../_Standards/geo/Continent/Africa/Algeria/Counties/Blida|Blida]] 
-- [[../../../../../../_public/geo/Continent/Africa/Algeria/Counties/Blida.public|Blida.public]] 
-- [[../../../../../../_internal/geo/Continent/Africa/Algeria/Counties/Blida.internal|Blida.internal]] 
-- [[../../../../../../_protect/geo/Continent/Africa/Algeria/Counties/Blida.protect|Blida.protect]] 
-- [[../../../../../../_private/geo/Continent/Africa/Algeria/Counties/Blida.private|Blida.private]] 
-- [[../../../../../../_personal/geo/Continent/Africa/Algeria/Counties/Blida.personal|Blida.personal]] 
-- [[../../../../../../_secret/geo/Continent/Africa/Algeria/Counties/Blida.secret|Blida.secret]] 
+
+### #is_/same_as :: [Blida](/_Standards/Earth/Continent/Africa/Africa~North/Algeria/provinces~Algeria/Blida.md) 
+
+### #is_/same_as :: [Blida.public](/_public/Earth/Continent/Africa/Africa~North/Algeria/provinces~Algeria/Blida.public.md) 
+
+### #is_/same_as :: [Blida.internal](/_internal/Earth/Continent/Africa/Africa~North/Algeria/provinces~Algeria/Blida.internal.md) 
+
+### #is_/same_as :: [Blida.protect](/_protect/Earth/Continent/Africa/Africa~North/Algeria/provinces~Algeria/Blida.protect.md) 
+
+### #is_/same_as :: [Blida.private](/_private/Earth/Continent/Africa/Africa~North/Algeria/provinces~Algeria/Blida.private.md) 
+
+### #is_/same_as :: [Blida.personal](/_personal/Earth/Continent/Africa/Africa~North/Algeria/provinces~Algeria/Blida.personal.md) 
+
+### #is_/same_as :: [Blida.secret](/_secret/Earth/Continent/Africa/Africa~North/Algeria/provinces~Algeria/Blida.secret.md)
 

@@ -40,11 +40,18 @@ markerFolder: ./Tindouf/
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../../../_Standards/geo/Continent/Africa/Algeria/Counties/Tindouf|Tindouf]] 
-- [[../../../../../../_public/geo/Continent/Africa/Algeria/Counties/Tindouf.public|Tindouf.public]] 
-- [[../../../../../../_internal/geo/Continent/Africa/Algeria/Counties/Tindouf.internal|Tindouf.internal]] 
-- [[../../../../../../_protect/geo/Continent/Africa/Algeria/Counties/Tindouf.protect|Tindouf.protect]] 
-- [[../../../../../../_private/geo/Continent/Africa/Algeria/Counties/Tindouf.private|Tindouf.private]] 
-- [[../../../../../../_personal/geo/Continent/Africa/Algeria/Counties/Tindouf.personal|Tindouf.personal]] 
-- [[../../../../../../_secret/geo/Continent/Africa/Algeria/Counties/Tindouf.secret|Tindouf.secret]] 
+
+### #is_/same_as :: [Tindouf](/_Standards/Earth/Continent/Africa/Africa~North/Algeria/provinces~Algeria/Tindouf.md) 
+
+### #is_/same_as :: [Tindouf.public](/_public/Earth/Continent/Africa/Africa~North/Algeria/provinces~Algeria/Tindouf.public.md) 
+
+### #is_/same_as :: [Tindouf.internal](/_internal/Earth/Continent/Africa/Africa~North/Algeria/provinces~Algeria/Tindouf.internal.md) 
+
+### #is_/same_as :: [Tindouf.protect](/_protect/Earth/Continent/Africa/Africa~North/Algeria/provinces~Algeria/Tindouf.protect.md) 
+
+### #is_/same_as :: [Tindouf.private](/_private/Earth/Continent/Africa/Africa~North/Algeria/provinces~Algeria/Tindouf.private.md) 
+
+### #is_/same_as :: [Tindouf.personal](/_personal/Earth/Continent/Africa/Africa~North/Algeria/provinces~Algeria/Tindouf.personal.md) 
+
+### #is_/same_as :: [Tindouf.secret](/_secret/Earth/Continent/Africa/Africa~North/Algeria/provinces~Algeria/Tindouf.secret.md)
 

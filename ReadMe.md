@@ -131,10 +131,4 @@ Capital :: [[Africa~North/Algeria/Counties/Alger/City/Algier=Algiers]]
 
 
 
-## Confidential Links & Embeds: 
-- [[Algeria|Algeria]]  
-- [[../../../../../_internal/geo/Continent/Africa/Africa~North/Algeria.internal|Algeria.internal]]  
-- [[../../../../../_protect/geo/Continent/Africa/Africa~North/Algeria.protect|Algeria.protect]] 
-- [[../../../../../_private/geo/Continent/Africa/Africa~North/Algeria.private|Algeria.private]] 
-- [[../../../../../_personal/geo/Continent/Africa/Africa~North/Algeria.personal|Algeria.personal]] 
-- [[../../../../../_secret/geo/Continent/Africa/Africa~North/Algeria.secret|Algeria.secret]] 
+

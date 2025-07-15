@@ -40,11 +40,18 @@ markerFolder: ./Tiaret/
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../../../_Standards/geo/Continent/Africa/Algeria/Counties/Tiaret|Tiaret]] 
-- [[../../../../../../_public/geo/Continent/Africa/Algeria/Counties/Tiaret.public|Tiaret.public]] 
-- [[../../../../../../_internal/geo/Continent/Africa/Algeria/Counties/Tiaret.internal|Tiaret.internal]] 
-- [[../../../../../../_protect/geo/Continent/Africa/Algeria/Counties/Tiaret.protect|Tiaret.protect]] 
-- [[../../../../../../_private/geo/Continent/Africa/Algeria/Counties/Tiaret.private|Tiaret.private]] 
-- [[../../../../../../_personal/geo/Continent/Africa/Algeria/Counties/Tiaret.personal|Tiaret.personal]] 
-- [[../../../../../../_secret/geo/Continent/Africa/Algeria/Counties/Tiaret.secret|Tiaret.secret]] 
+
+### #is_/same_as :: [Tiaret](/_Standards/Earth/Continent/Africa/Africa~North/Algeria/provinces~Algeria/Tiaret.md) 
+
+### #is_/same_as :: [Tiaret.public](/_public/Earth/Continent/Africa/Africa~North/Algeria/provinces~Algeria/Tiaret.public.md) 
+
+### #is_/same_as :: [Tiaret.internal](/_internal/Earth/Continent/Africa/Africa~North/Algeria/provinces~Algeria/Tiaret.internal.md) 
+
+### #is_/same_as :: [Tiaret.protect](/_protect/Earth/Continent/Africa/Africa~North/Algeria/provinces~Algeria/Tiaret.protect.md) 
+
+### #is_/same_as :: [Tiaret.private](/_private/Earth/Continent/Africa/Africa~North/Algeria/provinces~Algeria/Tiaret.private.md) 
+
+### #is_/same_as :: [Tiaret.personal](/_personal/Earth/Continent/Africa/Africa~North/Algeria/provinces~Algeria/Tiaret.personal.md) 
+
+### #is_/same_as :: [Tiaret.secret](/_secret/Earth/Continent/Africa/Africa~North/Algeria/provinces~Algeria/Tiaret.secret.md)
 

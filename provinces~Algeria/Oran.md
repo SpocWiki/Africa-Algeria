@@ -40,11 +40,18 @@ markerFolder: ./Oran/
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../../../_Standards/geo/Continent/Africa/Algeria/Counties/Oran|Oran]] 
-- [[../../../../../../_public/geo/Continent/Africa/Algeria/Counties/Oran.public|Oran.public]] 
-- [[../../../../../../_internal/geo/Continent/Africa/Algeria/Counties/Oran.internal|Oran.internal]] 
-- [[../../../../../../_protect/geo/Continent/Africa/Algeria/Counties/Oran.protect|Oran.protect]] 
-- [[../../../../../../_private/geo/Continent/Africa/Algeria/Counties/Oran.private|Oran.private]] 
-- [[../../../../../../_personal/geo/Continent/Africa/Algeria/Counties/Oran.personal|Oran.personal]] 
-- [[../../../../../../_secret/geo/Continent/Africa/Algeria/Counties/Oran.secret|Oran.secret]] 
+
+### #is_/same_as :: [Oran](/_Standards/Earth/Continent/Africa/Africa~North/Algeria/provinces~Algeria/Oran.md) 
+
+### #is_/same_as :: [Oran.public](/_public/Earth/Continent/Africa/Africa~North/Algeria/provinces~Algeria/Oran.public.md) 
+
+### #is_/same_as :: [Oran.internal](/_internal/Earth/Continent/Africa/Africa~North/Algeria/provinces~Algeria/Oran.internal.md) 
+
+### #is_/same_as :: [Oran.protect](/_protect/Earth/Continent/Africa/Africa~North/Algeria/provinces~Algeria/Oran.protect.md) 
+
+### #is_/same_as :: [Oran.private](/_private/Earth/Continent/Africa/Africa~North/Algeria/provinces~Algeria/Oran.private.md) 
+
+### #is_/same_as :: [Oran.personal](/_personal/Earth/Continent/Africa/Africa~North/Algeria/provinces~Algeria/Oran.personal.md) 
+
+### #is_/same_as :: [Oran.secret](/_secret/Earth/Continent/Africa/Africa~North/Algeria/provinces~Algeria/Oran.secret.md)
 

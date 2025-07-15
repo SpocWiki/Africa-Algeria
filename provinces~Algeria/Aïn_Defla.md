@@ -40,11 +40,18 @@ markerFolder: ./Aïn_Defla/
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../../../_Standards/geo/Continent/Africa/Algeria/Counties/Aïn_Defla|Aïn_Defla]] 
-- [[../../../../../../_public/geo/Continent/Africa/Algeria/Counties/Aïn_Defla.public|Aïn_Defla.public]] 
-- [[../../../../../../_internal/geo/Continent/Africa/Algeria/Counties/Aïn_Defla.internal|Aïn_Defla.internal]] 
-- [[../../../../../../_protect/geo/Continent/Africa/Algeria/Counties/Aïn_Defla.protect|Aïn_Defla.protect]] 
-- [[../../../../../../_private/geo/Continent/Africa/Algeria/Counties/Aïn_Defla.private|Aïn_Defla.private]] 
-- [[../../../../../../_personal/geo/Continent/Africa/Algeria/Counties/Aïn_Defla.personal|Aïn_Defla.personal]] 
-- [[../../../../../../_secret/geo/Continent/Africa/Algeria/Counties/Aïn_Defla.secret|Aïn_Defla.secret]] 
+
+### #is_/same_as :: [Aïn_Defla](/_Standards/Earth/Continent/Africa/Africa~North/Algeria/provinces~Algeria/Aïn_Defla.md) 
+
+### #is_/same_as :: [Aïn_Defla.public](/_public/Earth/Continent/Africa/Africa~North/Algeria/provinces~Algeria/Aïn_Defla.public.md) 
+
+### #is_/same_as :: [Aïn_Defla.internal](/_internal/Earth/Continent/Africa/Africa~North/Algeria/provinces~Algeria/Aïn_Defla.internal.md) 
+
+### #is_/same_as :: [Aïn_Defla.protect](/_protect/Earth/Continent/Africa/Africa~North/Algeria/provinces~Algeria/Aïn_Defla.protect.md) 
+
+### #is_/same_as :: [Aïn_Defla.private](/_private/Earth/Continent/Africa/Africa~North/Algeria/provinces~Algeria/Aïn_Defla.private.md) 
+
+### #is_/same_as :: [Aïn_Defla.personal](/_personal/Earth/Continent/Africa/Africa~North/Algeria/provinces~Algeria/Aïn_Defla.personal.md) 
+
+### #is_/same_as :: [Aïn_Defla.secret](/_secret/Earth/Continent/Africa/Africa~North/Algeria/provinces~Algeria/Aïn_Defla.secret.md)
 

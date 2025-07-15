@@ -40,11 +40,18 @@ markerFolder: ./Relizane/
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../../../_Standards/geo/Continent/Africa/Algeria/Counties/Relizane|Relizane]] 
-- [[../../../../../../_public/geo/Continent/Africa/Algeria/Counties/Relizane.public|Relizane.public]] 
-- [[../../../../../../_internal/geo/Continent/Africa/Algeria/Counties/Relizane.internal|Relizane.internal]] 
-- [[../../../../../../_protect/geo/Continent/Africa/Algeria/Counties/Relizane.protect|Relizane.protect]] 
-- [[../../../../../../_private/geo/Continent/Africa/Algeria/Counties/Relizane.private|Relizane.private]] 
-- [[../../../../../../_personal/geo/Continent/Africa/Algeria/Counties/Relizane.personal|Relizane.personal]] 
-- [[../../../../../../_secret/geo/Continent/Africa/Algeria/Counties/Relizane.secret|Relizane.secret]] 
+
+### #is_/same_as :: [Relizane](/_Standards/Earth/Continent/Africa/Africa~North/Algeria/provinces~Algeria/Relizane.md) 
+
+### #is_/same_as :: [Relizane.public](/_public/Earth/Continent/Africa/Africa~North/Algeria/provinces~Algeria/Relizane.public.md) 
+
+### #is_/same_as :: [Relizane.internal](/_internal/Earth/Continent/Africa/Africa~North/Algeria/provinces~Algeria/Relizane.internal.md) 
+
+### #is_/same_as :: [Relizane.protect](/_protect/Earth/Continent/Africa/Africa~North/Algeria/provinces~Algeria/Relizane.protect.md) 
+
+### #is_/same_as :: [Relizane.private](/_private/Earth/Continent/Africa/Africa~North/Algeria/provinces~Algeria/Relizane.private.md) 
+
+### #is_/same_as :: [Relizane.personal](/_personal/Earth/Continent/Africa/Africa~North/Algeria/provinces~Algeria/Relizane.personal.md) 
+
+### #is_/same_as :: [Relizane.secret](/_secret/Earth/Continent/Africa/Africa~North/Algeria/provinces~Algeria/Relizane.secret.md)
 

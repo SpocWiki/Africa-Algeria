@@ -40,11 +40,18 @@ markerFolder: ./M'Sila/
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../../../_Standards/geo/Continent/Africa/Algeria/Counties/M'Sila|M'Sila]] 
-- [[../../../../../../_public/geo/Continent/Africa/Algeria/Counties/M'Sila.public|M'Sila.public]] 
-- [[../../../../../../_internal/geo/Continent/Africa/Algeria/Counties/M'Sila.internal|M'Sila.internal]] 
-- [[../../../../../../_protect/geo/Continent/Africa/Algeria/Counties/M'Sila.protect|M'Sila.protect]] 
-- [[../../../../../../_private/geo/Continent/Africa/Algeria/Counties/M'Sila.private|M'Sila.private]] 
-- [[../../../../../../_personal/geo/Continent/Africa/Algeria/Counties/M'Sila.personal|M'Sila.personal]] 
-- [[../../../../../../_secret/geo/Continent/Africa/Algeria/Counties/M'Sila.secret|M'Sila.secret]] 
+
+### #is_/same_as :: [M'Sila](/_Standards/Earth/Continent/Africa/Africa~North/Algeria/provinces~Algeria/M'Sila.md) 
+
+### #is_/same_as :: [M'Sila.public](/_public/Earth/Continent/Africa/Africa~North/Algeria/provinces~Algeria/M'Sila.public.md) 
+
+### #is_/same_as :: [M'Sila.internal](/_internal/Earth/Continent/Africa/Africa~North/Algeria/provinces~Algeria/M'Sila.internal.md) 
+
+### #is_/same_as :: [M'Sila.protect](/_protect/Earth/Continent/Africa/Africa~North/Algeria/provinces~Algeria/M'Sila.protect.md) 
+
+### #is_/same_as :: [M'Sila.private](/_private/Earth/Continent/Africa/Africa~North/Algeria/provinces~Algeria/M'Sila.private.md) 
+
+### #is_/same_as :: [M'Sila.personal](/_personal/Earth/Continent/Africa/Africa~North/Algeria/provinces~Algeria/M'Sila.personal.md) 
+
+### #is_/same_as :: [M'Sila.secret](/_secret/Earth/Continent/Africa/Africa~North/Algeria/provinces~Algeria/M'Sila.secret.md)
 

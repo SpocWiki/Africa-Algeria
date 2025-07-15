@@ -1,4 +1,4 @@
-﻿---
+---
 location: [36.78,3.05] 
 mapzoom: [7,12] 
 mapmarker: city 
@@ -32,10 +32,18 @@ maxZoom: 18
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../../../_Standards/geo/Continent/Africa/Algeria/City/Algier=Algiers|Algier=Algiers]] 
-- [[../../../../../../_public/geo/Continent/Africa/Algeria/City/Algier=Algiers.public|Algier=Algiers.public]] 
-- [[../../../../../../_internal/geo/Continent/Africa/Algeria/City/Algier=Algiers.internal|Algier=Algiers.internal]] 
-- [[../../../../../../_protect/geo/Continent/Africa/Algeria/City/Algier=Algiers.protect|Algier=Algiers.protect]] 
-- [[../../../../../../_private/geo/Continent/Africa/Algeria/City/Algier=Algiers.private|Algier=Algiers.private]] 
-- [[../../../../../../_personal/geo/Continent/Africa/Algeria/City/Algier=Algiers.personal|Algier=Algiers.personal]] 
-- [[../../../../../../_secret/geo/Continent/Africa/Algeria/City/Algier=Algiers.secret|Algier=Algiers.secret]] 
+
+### #is_/same_as :: [Algier=Algiers](/_Standards/Earth/Continent/Africa/Africa~North/Algeria/provinces~Algeria/Alger/City/Algier=Algiers.md) 
+
+### #is_/same_as :: [Algier=Algiers.public](/_public/Earth/Continent/Africa/Africa~North/Algeria/provinces~Algeria/Alger/City/Algier=Algiers.public.md) 
+
+### #is_/same_as :: [Algier=Algiers.internal](/_internal/Earth/Continent/Africa/Africa~North/Algeria/provinces~Algeria/Alger/City/Algier=Algiers.internal.md) 
+
+### #is_/same_as :: [Algier=Algiers.protect](/_protect/Earth/Continent/Africa/Africa~North/Algeria/provinces~Algeria/Alger/City/Algier=Algiers.protect.md) 
+
+### #is_/same_as :: [Algier=Algiers.private](/_private/Earth/Continent/Africa/Africa~North/Algeria/provinces~Algeria/Alger/City/Algier=Algiers.private.md) 
+
+### #is_/same_as :: [Algier=Algiers.personal](/_personal/Earth/Continent/Africa/Africa~North/Algeria/provinces~Algeria/Alger/City/Algier=Algiers.personal.md) 
+
+### #is_/same_as :: [Algier=Algiers.secret](/_secret/Earth/Continent/Africa/Africa~North/Algeria/provinces~Algeria/Alger/City/Algier=Algiers.secret.md)
+

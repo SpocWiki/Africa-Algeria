@@ -40,11 +40,18 @@ markerFolder: ./El_Tarf/
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../../../_Standards/geo/Continent/Africa/Algeria/Counties/El_Tarf|El_Tarf]] 
-- [[../../../../../../_public/geo/Continent/Africa/Algeria/Counties/El_Tarf.public|El_Tarf.public]] 
-- [[../../../../../../_internal/geo/Continent/Africa/Algeria/Counties/El_Tarf.internal|El_Tarf.internal]] 
-- [[../../../../../../_protect/geo/Continent/Africa/Algeria/Counties/El_Tarf.protect|El_Tarf.protect]] 
-- [[../../../../../../_private/geo/Continent/Africa/Algeria/Counties/El_Tarf.private|El_Tarf.private]] 
-- [[../../../../../../_personal/geo/Continent/Africa/Algeria/Counties/El_Tarf.personal|El_Tarf.personal]] 
-- [[../../../../../../_secret/geo/Continent/Africa/Algeria/Counties/El_Tarf.secret|El_Tarf.secret]] 
+
+### #is_/same_as :: [El_Tarf](/_Standards/Earth/Continent/Africa/Africa~North/Algeria/provinces~Algeria/El_Tarf.md) 
+
+### #is_/same_as :: [El_Tarf.public](/_public/Earth/Continent/Africa/Africa~North/Algeria/provinces~Algeria/El_Tarf.public.md) 
+
+### #is_/same_as :: [El_Tarf.internal](/_internal/Earth/Continent/Africa/Africa~North/Algeria/provinces~Algeria/El_Tarf.internal.md) 
+
+### #is_/same_as :: [El_Tarf.protect](/_protect/Earth/Continent/Africa/Africa~North/Algeria/provinces~Algeria/El_Tarf.protect.md) 
+
+### #is_/same_as :: [El_Tarf.private](/_private/Earth/Continent/Africa/Africa~North/Algeria/provinces~Algeria/El_Tarf.private.md) 
+
+### #is_/same_as :: [El_Tarf.personal](/_personal/Earth/Continent/Africa/Africa~North/Algeria/provinces~Algeria/El_Tarf.personal.md) 
+
+### #is_/same_as :: [El_Tarf.secret](/_secret/Earth/Continent/Africa/Africa~North/Algeria/provinces~Algeria/El_Tarf.secret.md)
 

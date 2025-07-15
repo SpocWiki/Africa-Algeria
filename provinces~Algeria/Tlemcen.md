@@ -40,11 +40,18 @@ markerFolder: ./Tlemcen/
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../../../_Standards/geo/Continent/Africa/Algeria/Counties/Tlemcen|Tlemcen]] 
-- [[../../../../../../_public/geo/Continent/Africa/Algeria/Counties/Tlemcen.public|Tlemcen.public]] 
-- [[../../../../../../_internal/geo/Continent/Africa/Algeria/Counties/Tlemcen.internal|Tlemcen.internal]] 
-- [[../../../../../../_protect/geo/Continent/Africa/Algeria/Counties/Tlemcen.protect|Tlemcen.protect]] 
-- [[../../../../../../_private/geo/Continent/Africa/Algeria/Counties/Tlemcen.private|Tlemcen.private]] 
-- [[../../../../../../_personal/geo/Continent/Africa/Algeria/Counties/Tlemcen.personal|Tlemcen.personal]] 
-- [[../../../../../../_secret/geo/Continent/Africa/Algeria/Counties/Tlemcen.secret|Tlemcen.secret]] 
+
+### #is_/same_as :: [Tlemcen](/_Standards/Earth/Continent/Africa/Africa~North/Algeria/provinces~Algeria/Tlemcen.md) 
+
+### #is_/same_as :: [Tlemcen.public](/_public/Earth/Continent/Africa/Africa~North/Algeria/provinces~Algeria/Tlemcen.public.md) 
+
+### #is_/same_as :: [Tlemcen.internal](/_internal/Earth/Continent/Africa/Africa~North/Algeria/provinces~Algeria/Tlemcen.internal.md) 
+
+### #is_/same_as :: [Tlemcen.protect](/_protect/Earth/Continent/Africa/Africa~North/Algeria/provinces~Algeria/Tlemcen.protect.md) 
+
+### #is_/same_as :: [Tlemcen.private](/_private/Earth/Continent/Africa/Africa~North/Algeria/provinces~Algeria/Tlemcen.private.md) 
+
+### #is_/same_as :: [Tlemcen.personal](/_personal/Earth/Continent/Africa/Africa~North/Algeria/provinces~Algeria/Tlemcen.personal.md) 
+
+### #is_/same_as :: [Tlemcen.secret](/_secret/Earth/Continent/Africa/Africa~North/Algeria/provinces~Algeria/Tlemcen.secret.md)
 

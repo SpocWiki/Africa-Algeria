@@ -40,11 +40,18 @@ markerFolder: ./Constantine/
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../../../_Standards/geo/Continent/Africa/Algeria/Counties/Constantine|Constantine]] 
-- [[../../../../../../_public/geo/Continent/Africa/Algeria/Counties/Constantine.public|Constantine.public]] 
-- [[../../../../../../_internal/geo/Continent/Africa/Algeria/Counties/Constantine.internal|Constantine.internal]] 
-- [[../../../../../../_protect/geo/Continent/Africa/Algeria/Counties/Constantine.protect|Constantine.protect]] 
-- [[../../../../../../_private/geo/Continent/Africa/Algeria/Counties/Constantine.private|Constantine.private]] 
-- [[../../../../../../_personal/geo/Continent/Africa/Algeria/Counties/Constantine.personal|Constantine.personal]] 
-- [[../../../../../../_secret/geo/Continent/Africa/Algeria/Counties/Constantine.secret|Constantine.secret]] 
+
+### #is_/same_as :: [Constantine](/_Standards/Earth/Continent/Africa/Africa~North/Algeria/provinces~Algeria/Constantine.md) 
+
+### #is_/same_as :: [Constantine.public](/_public/Earth/Continent/Africa/Africa~North/Algeria/provinces~Algeria/Constantine.public.md) 
+
+### #is_/same_as :: [Constantine.internal](/_internal/Earth/Continent/Africa/Africa~North/Algeria/provinces~Algeria/Constantine.internal.md) 
+
+### #is_/same_as :: [Constantine.protect](/_protect/Earth/Continent/Africa/Africa~North/Algeria/provinces~Algeria/Constantine.protect.md) 
+
+### #is_/same_as :: [Constantine.private](/_private/Earth/Continent/Africa/Africa~North/Algeria/provinces~Algeria/Constantine.private.md) 
+
+### #is_/same_as :: [Constantine.personal](/_personal/Earth/Continent/Africa/Africa~North/Algeria/provinces~Algeria/Constantine.personal.md) 
+
+### #is_/same_as :: [Constantine.secret](/_secret/Earth/Continent/Africa/Africa~North/Algeria/provinces~Algeria/Constantine.secret.md)
 
