@@ -76,17 +76,17 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Algiers](Algiers.md) 
+### #is_/same_as :: [Algiers](/_Standards/Earth/Continent/Africa/Africa~North/Algeria/provinces~Algeria/Alger/City/Algiers.md) 
 
-### #is_/same_as :: [Algier=Algiers.public](/_public/Earth/Continent/Africa/Africa~North/Algeria/provinces~Algeria/Alger/City/Algier=Algiers.public.md) 
+### #is_/same_as :: [Algiers.public](/_public/Earth/Continent/Africa/Africa~North/Algeria/provinces~Algeria/Alger/City/Algiers.public.md) 
 
-### #is_/same_as :: [Algier=Algiers.internal](/_internal/Earth/Continent/Africa/Africa~North/Algeria/provinces~Algeria/Alger/City/Algier=Algiers.internal.md) 
+### #is_/same_as :: [Algiers.internal](/_internal/Earth/Continent/Africa/Africa~North/Algeria/provinces~Algeria/Alger/City/Algiers.internal.md) 
 
-### #is_/same_as :: [Algier=Algiers.protect](/_protect/Earth/Continent/Africa/Africa~North/Algeria/provinces~Algeria/Alger/City/Algier=Algiers.protect.md) 
+### #is_/same_as :: [Algiers.protect](/_protect/Earth/Continent/Africa/Africa~North/Algeria/provinces~Algeria/Alger/City/Algiers.protect.md) 
 
-### #is_/same_as :: [Algier=Algiers.private](/_private/Earth/Continent/Africa/Africa~North/Algeria/provinces~Algeria/Alger/City/Algier=Algiers.private.md) 
+### #is_/same_as :: [Algiers.private](/_private/Earth/Continent/Africa/Africa~North/Algeria/provinces~Algeria/Alger/City/Algiers.private.md) 
 
-### #is_/same_as :: [Algier=Algiers.personal](/_personal/Earth/Continent/Africa/Africa~North/Algeria/provinces~Algeria/Alger/City/Algier=Algiers.personal.md) 
+### #is_/same_as :: [Algiers.personal](/_personal/Earth/Continent/Africa/Africa~North/Algeria/provinces~Algeria/Alger/City/Algiers.personal.md) 
 
-### #is_/same_as :: [Algier=Algiers.secret](/_secret/Earth/Continent/Africa/Africa~North/Algeria/provinces~Algeria/Alger/City/Algier=Algiers.secret.md)
+### #is_/same_as :: [Algiers.secret](/_secret/Earth/Continent/Africa/Africa~North/Algeria/provinces~Algeria/Alger/City/Algiers.secret.md)
 

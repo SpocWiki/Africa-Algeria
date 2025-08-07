@@ -130,5 +130,19 @@ Capital :: [[Africa~North/Algeria/Counties/Alger/City/Algier=Algiers]]
 [geo-lat::36.78] 
 
 
+## Confidential Links & Embeds: 
 
+### #is_/same_as :: [ReadMe](/_Standards/Earth/Continent/Africa/Africa~North/Algeria/ReadMe.md) 
+
+### #is_/same_as :: [ReadMe.public](/_public/Earth/Continent/Africa/Africa~North/Algeria/ReadMe.public.md) 
+
+### #is_/same_as :: [ReadMe.internal](/_internal/Earth/Continent/Africa/Africa~North/Algeria/ReadMe.internal.md) 
+
+### #is_/same_as :: [ReadMe.protect](/_protect/Earth/Continent/Africa/Africa~North/Algeria/ReadMe.protect.md) 
+
+### #is_/same_as :: [ReadMe.private](/_private/Earth/Continent/Africa/Africa~North/Algeria/ReadMe.private.md) 
+
+### #is_/same_as :: [ReadMe.personal](/_personal/Earth/Continent/Africa/Africa~North/Algeria/ReadMe.personal.md) 
+
+### #is_/same_as :: [ReadMe.secret](/_secret/Earth/Continent/Africa/Africa~North/Algeria/ReadMe.secret.md)
 
