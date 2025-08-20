@@ -1,36 +1,37 @@
 ---
 location:
-- 36.78
-- 3.05
+  - 36.78
+  - 3.05
 type: Country
 tags:
-- geo/Country
+  - geo/Country
 SpocWebEntityId: 26883
 isDeleted: false
 confidential: public
 license: CC BY-SA 4.0
 isReadOnly: false
 source: https://datahub.io/core/country-codes
-cssclasses: Country
+cssclasses:
+  - Country
 publish: true
 title: Algeria
-linkTitle: 
-keywords: 
-layout: 
+linkTitle:
+keywords:
+layout:
 draft: false
-publishDate: 
-expiryDate: 
+publishDate:
+expiryDate:
 aliases:
-- Algeria
-- Argelia
-- Algérie
-- الجزائر
-- 阿尔及利亚
-- Алжир
-- the People's Democratic Republic of Algeria
-- la República Argelina Democrática y Popular
+  - Algeria
+  - Argelia
+  - Algérie
+  - الجزائر
+  - 阿尔及利亚
+  - Алжир
+  - the People's Democratic Republic of Algeria
+  - la República Argelina Democrática y Popular
 Languages:
-- ar-DZ
+  - ar-DZ
 ---
 
 
