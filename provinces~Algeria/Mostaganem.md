@@ -40,17 +40,17 @@ markerFolder: ./Mostaganem/
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Mostaganem](/_Standards/Earth/Continent/Africa/Africa~North/Algeria/provinces~Algeria/Mostaganem.md) 
+### #is_/same_as :: [[/_Standards/Earth/Continent/Africa/Africa~North/Algeria/provinces~Algeria/Mostaganem|Mostaganem]] 
 
-### #is_/same_as :: [Mostaganem.public](/_public/Earth/Continent/Africa/Africa~North/Algeria/provinces~Algeria/Mostaganem.public.md) 
+### #is_/same_as :: [[/_public/Earth/Continent/Africa/Africa~North/Algeria/provinces~Algeria/Mostaganem.public|Mostaganem.public]] 
 
-### #is_/same_as :: [Mostaganem.internal](/_internal/Earth/Continent/Africa/Africa~North/Algeria/provinces~Algeria/Mostaganem.internal.md) 
+### #is_/same_as :: [[/_internal/Earth/Continent/Africa/Africa~North/Algeria/provinces~Algeria/Mostaganem.internal|Mostaganem.internal]] 
 
-### #is_/same_as :: [Mostaganem.protect](/_protect/Earth/Continent/Africa/Africa~North/Algeria/provinces~Algeria/Mostaganem.protect.md) 
+### #is_/same_as :: [[/_protect/Earth/Continent/Africa/Africa~North/Algeria/provinces~Algeria/Mostaganem.protect|Mostaganem.protect]] 
 
-### #is_/same_as :: [Mostaganem.private](/_private/Earth/Continent/Africa/Africa~North/Algeria/provinces~Algeria/Mostaganem.private.md) 
+### #is_/same_as :: [[/_private/Earth/Continent/Africa/Africa~North/Algeria/provinces~Algeria/Mostaganem.private|Mostaganem.private]] 
 
-### #is_/same_as :: [Mostaganem.personal](/_personal/Earth/Continent/Africa/Africa~North/Algeria/provinces~Algeria/Mostaganem.personal.md) 
+### #is_/same_as :: [[/_personal/Earth/Continent/Africa/Africa~North/Algeria/provinces~Algeria/Mostaganem.personal|Mostaganem.personal]] 
 
-### #is_/same_as :: [Mostaganem.secret](/_secret/Earth/Continent/Africa/Africa~North/Algeria/provinces~Algeria/Mostaganem.secret.md)
+### #is_/same_as :: [[/_secret/Earth/Continent/Africa/Africa~North/Algeria/provinces~Algeria/Mostaganem.secret|Mostaganem.secret]] 
 

@@ -40,17 +40,17 @@ markerFolder: ./Tissemsilt/
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Tissemsilt](/_Standards/Earth/Continent/Africa/Africa~North/Algeria/provinces~Algeria/Tissemsilt.md) 
+### #is_/same_as :: [[/_Standards/Earth/Continent/Africa/Africa~North/Algeria/provinces~Algeria/Tissemsilt|Tissemsilt]] 
 
-### #is_/same_as :: [Tissemsilt.public](/_public/Earth/Continent/Africa/Africa~North/Algeria/provinces~Algeria/Tissemsilt.public.md) 
+### #is_/same_as :: [[/_public/Earth/Continent/Africa/Africa~North/Algeria/provinces~Algeria/Tissemsilt.public|Tissemsilt.public]] 
 
-### #is_/same_as :: [Tissemsilt.internal](/_internal/Earth/Continent/Africa/Africa~North/Algeria/provinces~Algeria/Tissemsilt.internal.md) 
+### #is_/same_as :: [[/_internal/Earth/Continent/Africa/Africa~North/Algeria/provinces~Algeria/Tissemsilt.internal|Tissemsilt.internal]] 
 
-### #is_/same_as :: [Tissemsilt.protect](/_protect/Earth/Continent/Africa/Africa~North/Algeria/provinces~Algeria/Tissemsilt.protect.md) 
+### #is_/same_as :: [[/_protect/Earth/Continent/Africa/Africa~North/Algeria/provinces~Algeria/Tissemsilt.protect|Tissemsilt.protect]] 
 
-### #is_/same_as :: [Tissemsilt.private](/_private/Earth/Continent/Africa/Africa~North/Algeria/provinces~Algeria/Tissemsilt.private.md) 
+### #is_/same_as :: [[/_private/Earth/Continent/Africa/Africa~North/Algeria/provinces~Algeria/Tissemsilt.private|Tissemsilt.private]] 
 
-### #is_/same_as :: [Tissemsilt.personal](/_personal/Earth/Continent/Africa/Africa~North/Algeria/provinces~Algeria/Tissemsilt.personal.md) 
+### #is_/same_as :: [[/_personal/Earth/Continent/Africa/Africa~North/Algeria/provinces~Algeria/Tissemsilt.personal|Tissemsilt.personal]] 
 
-### #is_/same_as :: [Tissemsilt.secret](/_secret/Earth/Continent/Africa/Africa~North/Algeria/provinces~Algeria/Tissemsilt.secret.md)
+### #is_/same_as :: [[/_secret/Earth/Continent/Africa/Africa~North/Algeria/provinces~Algeria/Tissemsilt.secret|Tissemsilt.secret]] 
 

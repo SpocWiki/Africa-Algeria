@@ -40,17 +40,17 @@ markerFolder: ./Sidi_Bel_Abbès/
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Sidi_Bel_Abbès](/_Standards/Earth/Continent/Africa/Africa~North/Algeria/provinces~Algeria/Sidi_Bel_Abbès.md) 
+### #is_/same_as :: [[/_Standards/Earth/Continent/Africa/Africa~North/Algeria/provinces~Algeria/Sidi_Bel_Abbès|Sidi_Bel_Abbès]] 
 
-### #is_/same_as :: [Sidi_Bel_Abbès.public](/_public/Earth/Continent/Africa/Africa~North/Algeria/provinces~Algeria/Sidi_Bel_Abbès.public.md) 
+### #is_/same_as :: [[/_public/Earth/Continent/Africa/Africa~North/Algeria/provinces~Algeria/Sidi_Bel_Abbès.public|Sidi_Bel_Abbès.public]] 
 
-### #is_/same_as :: [Sidi_Bel_Abbès.internal](/_internal/Earth/Continent/Africa/Africa~North/Algeria/provinces~Algeria/Sidi_Bel_Abbès.internal.md) 
+### #is_/same_as :: [[/_internal/Earth/Continent/Africa/Africa~North/Algeria/provinces~Algeria/Sidi_Bel_Abbès.internal|Sidi_Bel_Abbès.internal]] 
 
-### #is_/same_as :: [Sidi_Bel_Abbès.protect](/_protect/Earth/Continent/Africa/Africa~North/Algeria/provinces~Algeria/Sidi_Bel_Abbès.protect.md) 
+### #is_/same_as :: [[/_protect/Earth/Continent/Africa/Africa~North/Algeria/provinces~Algeria/Sidi_Bel_Abbès.protect|Sidi_Bel_Abbès.protect]] 
 
-### #is_/same_as :: [Sidi_Bel_Abbès.private](/_private/Earth/Continent/Africa/Africa~North/Algeria/provinces~Algeria/Sidi_Bel_Abbès.private.md) 
+### #is_/same_as :: [[/_private/Earth/Continent/Africa/Africa~North/Algeria/provinces~Algeria/Sidi_Bel_Abbès.private|Sidi_Bel_Abbès.private]] 
 
-### #is_/same_as :: [Sidi_Bel_Abbès.personal](/_personal/Earth/Continent/Africa/Africa~North/Algeria/provinces~Algeria/Sidi_Bel_Abbès.personal.md) 
+### #is_/same_as :: [[/_personal/Earth/Continent/Africa/Africa~North/Algeria/provinces~Algeria/Sidi_Bel_Abbès.personal|Sidi_Bel_Abbès.personal]] 
 
-### #is_/same_as :: [Sidi_Bel_Abbès.secret](/_secret/Earth/Continent/Africa/Africa~North/Algeria/provinces~Algeria/Sidi_Bel_Abbès.secret.md)
+### #is_/same_as :: [[/_secret/Earth/Continent/Africa/Africa~North/Algeria/provinces~Algeria/Sidi_Bel_Abbès.secret|Sidi_Bel_Abbès.secret]] 
 

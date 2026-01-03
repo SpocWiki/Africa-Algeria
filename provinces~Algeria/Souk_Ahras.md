@@ -40,17 +40,17 @@ markerFolder: ./Souk_Ahras/
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Souk_Ahras](/_Standards/Earth/Continent/Africa/Africa~North/Algeria/provinces~Algeria/Souk_Ahras.md) 
+### #is_/same_as :: [[/_Standards/Earth/Continent/Africa/Africa~North/Algeria/provinces~Algeria/Souk_Ahras|Souk_Ahras]] 
 
-### #is_/same_as :: [Souk_Ahras.public](/_public/Earth/Continent/Africa/Africa~North/Algeria/provinces~Algeria/Souk_Ahras.public.md) 
+### #is_/same_as :: [[/_public/Earth/Continent/Africa/Africa~North/Algeria/provinces~Algeria/Souk_Ahras.public|Souk_Ahras.public]] 
 
-### #is_/same_as :: [Souk_Ahras.internal](/_internal/Earth/Continent/Africa/Africa~North/Algeria/provinces~Algeria/Souk_Ahras.internal.md) 
+### #is_/same_as :: [[/_internal/Earth/Continent/Africa/Africa~North/Algeria/provinces~Algeria/Souk_Ahras.internal|Souk_Ahras.internal]] 
 
-### #is_/same_as :: [Souk_Ahras.protect](/_protect/Earth/Continent/Africa/Africa~North/Algeria/provinces~Algeria/Souk_Ahras.protect.md) 
+### #is_/same_as :: [[/_protect/Earth/Continent/Africa/Africa~North/Algeria/provinces~Algeria/Souk_Ahras.protect|Souk_Ahras.protect]] 
 
-### #is_/same_as :: [Souk_Ahras.private](/_private/Earth/Continent/Africa/Africa~North/Algeria/provinces~Algeria/Souk_Ahras.private.md) 
+### #is_/same_as :: [[/_private/Earth/Continent/Africa/Africa~North/Algeria/provinces~Algeria/Souk_Ahras.private|Souk_Ahras.private]] 
 
-### #is_/same_as :: [Souk_Ahras.personal](/_personal/Earth/Continent/Africa/Africa~North/Algeria/provinces~Algeria/Souk_Ahras.personal.md) 
+### #is_/same_as :: [[/_personal/Earth/Continent/Africa/Africa~North/Algeria/provinces~Algeria/Souk_Ahras.personal|Souk_Ahras.personal]] 
 
-### #is_/same_as :: [Souk_Ahras.secret](/_secret/Earth/Continent/Africa/Africa~North/Algeria/provinces~Algeria/Souk_Ahras.secret.md)
+### #is_/same_as :: [[/_secret/Earth/Continent/Africa/Africa~North/Algeria/provinces~Algeria/Souk_Ahras.secret|Souk_Ahras.secret]] 
 

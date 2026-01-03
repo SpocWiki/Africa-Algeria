@@ -40,17 +40,17 @@ markerFolder: ./Illizi/
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Illizi](/_Standards/Earth/Continent/Africa/Africa~North/Algeria/provinces~Algeria/Illizi.md) 
+### #is_/same_as :: [[/_Standards/Earth/Continent/Africa/Africa~North/Algeria/provinces~Algeria/Illizi|Illizi]] 
 
-### #is_/same_as :: [Illizi.public](/_public/Earth/Continent/Africa/Africa~North/Algeria/provinces~Algeria/Illizi.public.md) 
+### #is_/same_as :: [[/_public/Earth/Continent/Africa/Africa~North/Algeria/provinces~Algeria/Illizi.public|Illizi.public]] 
 
-### #is_/same_as :: [Illizi.internal](/_internal/Earth/Continent/Africa/Africa~North/Algeria/provinces~Algeria/Illizi.internal.md) 
+### #is_/same_as :: [[/_internal/Earth/Continent/Africa/Africa~North/Algeria/provinces~Algeria/Illizi.internal|Illizi.internal]] 
 
-### #is_/same_as :: [Illizi.protect](/_protect/Earth/Continent/Africa/Africa~North/Algeria/provinces~Algeria/Illizi.protect.md) 
+### #is_/same_as :: [[/_protect/Earth/Continent/Africa/Africa~North/Algeria/provinces~Algeria/Illizi.protect|Illizi.protect]] 
 
-### #is_/same_as :: [Illizi.private](/_private/Earth/Continent/Africa/Africa~North/Algeria/provinces~Algeria/Illizi.private.md) 
+### #is_/same_as :: [[/_private/Earth/Continent/Africa/Africa~North/Algeria/provinces~Algeria/Illizi.private|Illizi.private]] 
 
-### #is_/same_as :: [Illizi.personal](/_personal/Earth/Continent/Africa/Africa~North/Algeria/provinces~Algeria/Illizi.personal.md) 
+### #is_/same_as :: [[/_personal/Earth/Continent/Africa/Africa~North/Algeria/provinces~Algeria/Illizi.personal|Illizi.personal]] 
 
-### #is_/same_as :: [Illizi.secret](/_secret/Earth/Continent/Africa/Africa~North/Algeria/provinces~Algeria/Illizi.secret.md)
+### #is_/same_as :: [[/_secret/Earth/Continent/Africa/Africa~North/Algeria/provinces~Algeria/Illizi.secret|Illizi.secret]] 
 

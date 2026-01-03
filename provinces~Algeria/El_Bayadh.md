@@ -40,17 +40,17 @@ markerFolder: ./El_Bayadh/
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [El_Bayadh](/_Standards/Earth/Continent/Africa/Africa~North/Algeria/provinces~Algeria/El_Bayadh.md) 
+### #is_/same_as :: [[/_Standards/Earth/Continent/Africa/Africa~North/Algeria/provinces~Algeria/El_Bayadh|El_Bayadh]] 
 
-### #is_/same_as :: [El_Bayadh.public](/_public/Earth/Continent/Africa/Africa~North/Algeria/provinces~Algeria/El_Bayadh.public.md) 
+### #is_/same_as :: [[/_public/Earth/Continent/Africa/Africa~North/Algeria/provinces~Algeria/El_Bayadh.public|El_Bayadh.public]] 
 
-### #is_/same_as :: [El_Bayadh.internal](/_internal/Earth/Continent/Africa/Africa~North/Algeria/provinces~Algeria/El_Bayadh.internal.md) 
+### #is_/same_as :: [[/_internal/Earth/Continent/Africa/Africa~North/Algeria/provinces~Algeria/El_Bayadh.internal|El_Bayadh.internal]] 
 
-### #is_/same_as :: [El_Bayadh.protect](/_protect/Earth/Continent/Africa/Africa~North/Algeria/provinces~Algeria/El_Bayadh.protect.md) 
+### #is_/same_as :: [[/_protect/Earth/Continent/Africa/Africa~North/Algeria/provinces~Algeria/El_Bayadh.protect|El_Bayadh.protect]] 
 
-### #is_/same_as :: [El_Bayadh.private](/_private/Earth/Continent/Africa/Africa~North/Algeria/provinces~Algeria/El_Bayadh.private.md) 
+### #is_/same_as :: [[/_private/Earth/Continent/Africa/Africa~North/Algeria/provinces~Algeria/El_Bayadh.private|El_Bayadh.private]] 
 
-### #is_/same_as :: [El_Bayadh.personal](/_personal/Earth/Continent/Africa/Africa~North/Algeria/provinces~Algeria/El_Bayadh.personal.md) 
+### #is_/same_as :: [[/_personal/Earth/Continent/Africa/Africa~North/Algeria/provinces~Algeria/El_Bayadh.personal|El_Bayadh.personal]] 
 
-### #is_/same_as :: [El_Bayadh.secret](/_secret/Earth/Continent/Africa/Africa~North/Algeria/provinces~Algeria/El_Bayadh.secret.md)
+### #is_/same_as :: [[/_secret/Earth/Continent/Africa/Africa~North/Algeria/provinces~Algeria/El_Bayadh.secret|El_Bayadh.secret]] 
 

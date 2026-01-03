@@ -76,17 +76,17 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Algiers](/_Standards/Earth/Continent/Africa/Africa~North/Algeria/provinces~Algeria/Alger/City/Algiers.md) 
+### #is_/same_as :: [[/_Standards/Earth/Continent/Africa/Africa~North/Algeria/provinces~Algeria/Alger/City/Algiers|Algiers]] 
 
-### #is_/same_as :: [Algiers.public](/_public/Earth/Continent/Africa/Africa~North/Algeria/provinces~Algeria/Alger/City/Algiers.public.md) 
+### #is_/same_as :: [[/_public/Earth/Continent/Africa/Africa~North/Algeria/provinces~Algeria/Alger/City/Algiers.public|Algiers.public]] 
 
-### #is_/same_as :: [Algiers.internal](/_internal/Earth/Continent/Africa/Africa~North/Algeria/provinces~Algeria/Alger/City/Algiers.internal.md) 
+### #is_/same_as :: [[/_internal/Earth/Continent/Africa/Africa~North/Algeria/provinces~Algeria/Alger/City/Algiers.internal|Algiers.internal]] 
 
-### #is_/same_as :: [Algiers.protect](/_protect/Earth/Continent/Africa/Africa~North/Algeria/provinces~Algeria/Alger/City/Algiers.protect.md) 
+### #is_/same_as :: [[/_protect/Earth/Continent/Africa/Africa~North/Algeria/provinces~Algeria/Alger/City/Algiers.protect|Algiers.protect]] 
 
-### #is_/same_as :: [Algiers.private](/_private/Earth/Continent/Africa/Africa~North/Algeria/provinces~Algeria/Alger/City/Algiers.private.md) 
+### #is_/same_as :: [[/_private/Earth/Continent/Africa/Africa~North/Algeria/provinces~Algeria/Alger/City/Algiers.private|Algiers.private]] 
 
-### #is_/same_as :: [Algiers.personal](/_personal/Earth/Continent/Africa/Africa~North/Algeria/provinces~Algeria/Alger/City/Algiers.personal.md) 
+### #is_/same_as :: [[/_personal/Earth/Continent/Africa/Africa~North/Algeria/provinces~Algeria/Alger/City/Algiers.personal|Algiers.personal]] 
 
-### #is_/same_as :: [Algiers.secret](/_secret/Earth/Continent/Africa/Africa~North/Algeria/provinces~Algeria/Alger/City/Algiers.secret.md)
+### #is_/same_as :: [[/_secret/Earth/Continent/Africa/Africa~North/Algeria/provinces~Algeria/Alger/City/Algiers.secret|Algiers.secret]] 
 

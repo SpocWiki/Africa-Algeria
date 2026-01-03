@@ -40,17 +40,17 @@ markerFolder: ./Annaba/
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Annaba](/_Standards/Earth/Continent/Africa/Africa~North/Algeria/provinces~Algeria/Annaba.md) 
+### #is_/same_as :: [[/_Standards/Earth/Continent/Africa/Africa~North/Algeria/provinces~Algeria/Annaba|Annaba]] 
 
-### #is_/same_as :: [Annaba.public](/_public/Earth/Continent/Africa/Africa~North/Algeria/provinces~Algeria/Annaba.public.md) 
+### #is_/same_as :: [[/_public/Earth/Continent/Africa/Africa~North/Algeria/provinces~Algeria/Annaba.public|Annaba.public]] 
 
-### #is_/same_as :: [Annaba.internal](/_internal/Earth/Continent/Africa/Africa~North/Algeria/provinces~Algeria/Annaba.internal.md) 
+### #is_/same_as :: [[/_internal/Earth/Continent/Africa/Africa~North/Algeria/provinces~Algeria/Annaba.internal|Annaba.internal]] 
 
-### #is_/same_as :: [Annaba.protect](/_protect/Earth/Continent/Africa/Africa~North/Algeria/provinces~Algeria/Annaba.protect.md) 
+### #is_/same_as :: [[/_protect/Earth/Continent/Africa/Africa~North/Algeria/provinces~Algeria/Annaba.protect|Annaba.protect]] 
 
-### #is_/same_as :: [Annaba.private](/_private/Earth/Continent/Africa/Africa~North/Algeria/provinces~Algeria/Annaba.private.md) 
+### #is_/same_as :: [[/_private/Earth/Continent/Africa/Africa~North/Algeria/provinces~Algeria/Annaba.private|Annaba.private]] 
 
-### #is_/same_as :: [Annaba.personal](/_personal/Earth/Continent/Africa/Africa~North/Algeria/provinces~Algeria/Annaba.personal.md) 
+### #is_/same_as :: [[/_personal/Earth/Continent/Africa/Africa~North/Algeria/provinces~Algeria/Annaba.personal|Annaba.personal]] 
 
-### #is_/same_as :: [Annaba.secret](/_secret/Earth/Continent/Africa/Africa~North/Algeria/provinces~Algeria/Annaba.secret.md)
+### #is_/same_as :: [[/_secret/Earth/Continent/Africa/Africa~North/Algeria/provinces~Algeria/Annaba.secret|Annaba.secret]] 
 

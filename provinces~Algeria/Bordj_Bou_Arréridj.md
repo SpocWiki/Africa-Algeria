@@ -40,17 +40,17 @@ markerFolder: ./Bordj_Bou_Arréridj/
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Bordj_Bou_Arréridj](/_Standards/Earth/Continent/Africa/Africa~North/Algeria/provinces~Algeria/Bordj_Bou_Arréridj.md) 
+### #is_/same_as :: [[/_Standards/Earth/Continent/Africa/Africa~North/Algeria/provinces~Algeria/Bordj_Bou_Arréridj|Bordj_Bou_Arréridj]] 
 
-### #is_/same_as :: [Bordj_Bou_Arréridj.public](/_public/Earth/Continent/Africa/Africa~North/Algeria/provinces~Algeria/Bordj_Bou_Arréridj.public.md) 
+### #is_/same_as :: [[/_public/Earth/Continent/Africa/Africa~North/Algeria/provinces~Algeria/Bordj_Bou_Arréridj.public|Bordj_Bou_Arréridj.public]] 
 
-### #is_/same_as :: [Bordj_Bou_Arréridj.internal](/_internal/Earth/Continent/Africa/Africa~North/Algeria/provinces~Algeria/Bordj_Bou_Arréridj.internal.md) 
+### #is_/same_as :: [[/_internal/Earth/Continent/Africa/Africa~North/Algeria/provinces~Algeria/Bordj_Bou_Arréridj.internal|Bordj_Bou_Arréridj.internal]] 
 
-### #is_/same_as :: [Bordj_Bou_Arréridj.protect](/_protect/Earth/Continent/Africa/Africa~North/Algeria/provinces~Algeria/Bordj_Bou_Arréridj.protect.md) 
+### #is_/same_as :: [[/_protect/Earth/Continent/Africa/Africa~North/Algeria/provinces~Algeria/Bordj_Bou_Arréridj.protect|Bordj_Bou_Arréridj.protect]] 
 
-### #is_/same_as :: [Bordj_Bou_Arréridj.private](/_private/Earth/Continent/Africa/Africa~North/Algeria/provinces~Algeria/Bordj_Bou_Arréridj.private.md) 
+### #is_/same_as :: [[/_private/Earth/Continent/Africa/Africa~North/Algeria/provinces~Algeria/Bordj_Bou_Arréridj.private|Bordj_Bou_Arréridj.private]] 
 
-### #is_/same_as :: [Bordj_Bou_Arréridj.personal](/_personal/Earth/Continent/Africa/Africa~North/Algeria/provinces~Algeria/Bordj_Bou_Arréridj.personal.md) 
+### #is_/same_as :: [[/_personal/Earth/Continent/Africa/Africa~North/Algeria/provinces~Algeria/Bordj_Bou_Arréridj.personal|Bordj_Bou_Arréridj.personal]] 
 
-### #is_/same_as :: [Bordj_Bou_Arréridj.secret](/_secret/Earth/Continent/Africa/Africa~North/Algeria/provinces~Algeria/Bordj_Bou_Arréridj.secret.md)
+### #is_/same_as :: [[/_secret/Earth/Continent/Africa/Africa~North/Algeria/provinces~Algeria/Bordj_Bou_Arréridj.secret|Bordj_Bou_Arréridj.secret]] 
 

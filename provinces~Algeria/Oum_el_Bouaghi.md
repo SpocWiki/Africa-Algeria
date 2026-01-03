@@ -40,17 +40,17 @@ markerFolder: ./Oum_el_Bouaghi/
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Oum_el_Bouaghi](/_Standards/Earth/Continent/Africa/Africa~North/Algeria/provinces~Algeria/Oum_el_Bouaghi.md) 
+### #is_/same_as :: [[/_Standards/Earth/Continent/Africa/Africa~North/Algeria/provinces~Algeria/Oum_el_Bouaghi|Oum_el_Bouaghi]] 
 
-### #is_/same_as :: [Oum_el_Bouaghi.public](/_public/Earth/Continent/Africa/Africa~North/Algeria/provinces~Algeria/Oum_el_Bouaghi.public.md) 
+### #is_/same_as :: [[/_public/Earth/Continent/Africa/Africa~North/Algeria/provinces~Algeria/Oum_el_Bouaghi.public|Oum_el_Bouaghi.public]] 
 
-### #is_/same_as :: [Oum_el_Bouaghi.internal](/_internal/Earth/Continent/Africa/Africa~North/Algeria/provinces~Algeria/Oum_el_Bouaghi.internal.md) 
+### #is_/same_as :: [[/_internal/Earth/Continent/Africa/Africa~North/Algeria/provinces~Algeria/Oum_el_Bouaghi.internal|Oum_el_Bouaghi.internal]] 
 
-### #is_/same_as :: [Oum_el_Bouaghi.protect](/_protect/Earth/Continent/Africa/Africa~North/Algeria/provinces~Algeria/Oum_el_Bouaghi.protect.md) 
+### #is_/same_as :: [[/_protect/Earth/Continent/Africa/Africa~North/Algeria/provinces~Algeria/Oum_el_Bouaghi.protect|Oum_el_Bouaghi.protect]] 
 
-### #is_/same_as :: [Oum_el_Bouaghi.private](/_private/Earth/Continent/Africa/Africa~North/Algeria/provinces~Algeria/Oum_el_Bouaghi.private.md) 
+### #is_/same_as :: [[/_private/Earth/Continent/Africa/Africa~North/Algeria/provinces~Algeria/Oum_el_Bouaghi.private|Oum_el_Bouaghi.private]] 
 
-### #is_/same_as :: [Oum_el_Bouaghi.personal](/_personal/Earth/Continent/Africa/Africa~North/Algeria/provinces~Algeria/Oum_el_Bouaghi.personal.md) 
+### #is_/same_as :: [[/_personal/Earth/Continent/Africa/Africa~North/Algeria/provinces~Algeria/Oum_el_Bouaghi.personal|Oum_el_Bouaghi.personal]] 
 
-### #is_/same_as :: [Oum_el_Bouaghi.secret](/_secret/Earth/Continent/Africa/Africa~North/Algeria/provinces~Algeria/Oum_el_Bouaghi.secret.md)
+### #is_/same_as :: [[/_secret/Earth/Continent/Africa/Africa~North/Algeria/provinces~Algeria/Oum_el_Bouaghi.secret|Oum_el_Bouaghi.secret]] 
 

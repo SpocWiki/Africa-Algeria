@@ -40,17 +40,17 @@ markerFolder: ./El_Oued/
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [El_Oued](/_Standards/Earth/Continent/Africa/Africa~North/Algeria/provinces~Algeria/El_Oued.md) 
+### #is_/same_as :: [[/_Standards/Earth/Continent/Africa/Africa~North/Algeria/provinces~Algeria/El_Oued|El_Oued]] 
 
-### #is_/same_as :: [El_Oued.public](/_public/Earth/Continent/Africa/Africa~North/Algeria/provinces~Algeria/El_Oued.public.md) 
+### #is_/same_as :: [[/_public/Earth/Continent/Africa/Africa~North/Algeria/provinces~Algeria/El_Oued.public|El_Oued.public]] 
 
-### #is_/same_as :: [El_Oued.internal](/_internal/Earth/Continent/Africa/Africa~North/Algeria/provinces~Algeria/El_Oued.internal.md) 
+### #is_/same_as :: [[/_internal/Earth/Continent/Africa/Africa~North/Algeria/provinces~Algeria/El_Oued.internal|El_Oued.internal]] 
 
-### #is_/same_as :: [El_Oued.protect](/_protect/Earth/Continent/Africa/Africa~North/Algeria/provinces~Algeria/El_Oued.protect.md) 
+### #is_/same_as :: [[/_protect/Earth/Continent/Africa/Africa~North/Algeria/provinces~Algeria/El_Oued.protect|El_Oued.protect]] 
 
-### #is_/same_as :: [El_Oued.private](/_private/Earth/Continent/Africa/Africa~North/Algeria/provinces~Algeria/El_Oued.private.md) 
+### #is_/same_as :: [[/_private/Earth/Continent/Africa/Africa~North/Algeria/provinces~Algeria/El_Oued.private|El_Oued.private]] 
 
-### #is_/same_as :: [El_Oued.personal](/_personal/Earth/Continent/Africa/Africa~North/Algeria/provinces~Algeria/El_Oued.personal.md) 
+### #is_/same_as :: [[/_personal/Earth/Continent/Africa/Africa~North/Algeria/provinces~Algeria/El_Oued.personal|El_Oued.personal]] 
 
-### #is_/same_as :: [El_Oued.secret](/_secret/Earth/Continent/Africa/Africa~North/Algeria/provinces~Algeria/El_Oued.secret.md)
+### #is_/same_as :: [[/_secret/Earth/Continent/Africa/Africa~North/Algeria/provinces~Algeria/El_Oued.secret|El_Oued.secret]] 
 

@@ -40,17 +40,17 @@ markerFolder: ./Tébessa/
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Tébessa](/_Standards/Earth/Continent/Africa/Africa~North/Algeria/provinces~Algeria/Tébessa.md) 
+### #is_/same_as :: [[/_Standards/Earth/Continent/Africa/Africa~North/Algeria/provinces~Algeria/Tébessa|Tébessa]] 
 
-### #is_/same_as :: [Tébessa.public](/_public/Earth/Continent/Africa/Africa~North/Algeria/provinces~Algeria/Tébessa.public.md) 
+### #is_/same_as :: [[/_public/Earth/Continent/Africa/Africa~North/Algeria/provinces~Algeria/Tébessa.public|Tébessa.public]] 
 
-### #is_/same_as :: [Tébessa.internal](/_internal/Earth/Continent/Africa/Africa~North/Algeria/provinces~Algeria/Tébessa.internal.md) 
+### #is_/same_as :: [[/_internal/Earth/Continent/Africa/Africa~North/Algeria/provinces~Algeria/Tébessa.internal|Tébessa.internal]] 
 
-### #is_/same_as :: [Tébessa.protect](/_protect/Earth/Continent/Africa/Africa~North/Algeria/provinces~Algeria/Tébessa.protect.md) 
+### #is_/same_as :: [[/_protect/Earth/Continent/Africa/Africa~North/Algeria/provinces~Algeria/Tébessa.protect|Tébessa.protect]] 
 
-### #is_/same_as :: [Tébessa.private](/_private/Earth/Continent/Africa/Africa~North/Algeria/provinces~Algeria/Tébessa.private.md) 
+### #is_/same_as :: [[/_private/Earth/Continent/Africa/Africa~North/Algeria/provinces~Algeria/Tébessa.private|Tébessa.private]] 
 
-### #is_/same_as :: [Tébessa.personal](/_personal/Earth/Continent/Africa/Africa~North/Algeria/provinces~Algeria/Tébessa.personal.md) 
+### #is_/same_as :: [[/_personal/Earth/Continent/Africa/Africa~North/Algeria/provinces~Algeria/Tébessa.personal|Tébessa.personal]] 
 
-### #is_/same_as :: [Tébessa.secret](/_secret/Earth/Continent/Africa/Africa~North/Algeria/provinces~Algeria/Tébessa.secret.md)
+### #is_/same_as :: [[/_secret/Earth/Continent/Africa/Africa~North/Algeria/provinces~Algeria/Tébessa.secret|Tébessa.secret]] 
 

@@ -40,17 +40,17 @@ markerFolder: ./Mila/
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Mila](/_Standards/Earth/Continent/Africa/Africa~North/Algeria/provinces~Algeria/Mila.md) 
+### #is_/same_as :: [[/_Standards/Earth/Continent/Africa/Africa~North/Algeria/provinces~Algeria/Mila|Mila]] 
 
-### #is_/same_as :: [Mila.public](/_public/Earth/Continent/Africa/Africa~North/Algeria/provinces~Algeria/Mila.public.md) 
+### #is_/same_as :: [[/_public/Earth/Continent/Africa/Africa~North/Algeria/provinces~Algeria/Mila.public|Mila.public]] 
 
-### #is_/same_as :: [Mila.internal](/_internal/Earth/Continent/Africa/Africa~North/Algeria/provinces~Algeria/Mila.internal.md) 
+### #is_/same_as :: [[/_internal/Earth/Continent/Africa/Africa~North/Algeria/provinces~Algeria/Mila.internal|Mila.internal]] 
 
-### #is_/same_as :: [Mila.protect](/_protect/Earth/Continent/Africa/Africa~North/Algeria/provinces~Algeria/Mila.protect.md) 
+### #is_/same_as :: [[/_protect/Earth/Continent/Africa/Africa~North/Algeria/provinces~Algeria/Mila.protect|Mila.protect]] 
 
-### #is_/same_as :: [Mila.private](/_private/Earth/Continent/Africa/Africa~North/Algeria/provinces~Algeria/Mila.private.md) 
+### #is_/same_as :: [[/_private/Earth/Continent/Africa/Africa~North/Algeria/provinces~Algeria/Mila.private|Mila.private]] 
 
-### #is_/same_as :: [Mila.personal](/_personal/Earth/Continent/Africa/Africa~North/Algeria/provinces~Algeria/Mila.personal.md) 
+### #is_/same_as :: [[/_personal/Earth/Continent/Africa/Africa~North/Algeria/provinces~Algeria/Mila.personal|Mila.personal]] 
 
-### #is_/same_as :: [Mila.secret](/_secret/Earth/Continent/Africa/Africa~North/Algeria/provinces~Algeria/Mila.secret.md)
+### #is_/same_as :: [[/_secret/Earth/Continent/Africa/Africa~North/Algeria/provinces~Algeria/Mila.secret|Mila.secret]] 
 

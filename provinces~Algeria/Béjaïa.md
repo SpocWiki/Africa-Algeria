@@ -40,17 +40,17 @@ markerFolder: ./Béjaïa/
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Béjaïa](/_Standards/Earth/Continent/Africa/Africa~North/Algeria/provinces~Algeria/Béjaïa.md) 
+### #is_/same_as :: [[/_Standards/Earth/Continent/Africa/Africa~North/Algeria/provinces~Algeria/Béjaïa|Béjaïa]] 
 
-### #is_/same_as :: [Béjaïa.public](/_public/Earth/Continent/Africa/Africa~North/Algeria/provinces~Algeria/Béjaïa.public.md) 
+### #is_/same_as :: [[/_public/Earth/Continent/Africa/Africa~North/Algeria/provinces~Algeria/Béjaïa.public|Béjaïa.public]] 
 
-### #is_/same_as :: [Béjaïa.internal](/_internal/Earth/Continent/Africa/Africa~North/Algeria/provinces~Algeria/Béjaïa.internal.md) 
+### #is_/same_as :: [[/_internal/Earth/Continent/Africa/Africa~North/Algeria/provinces~Algeria/Béjaïa.internal|Béjaïa.internal]] 
 
-### #is_/same_as :: [Béjaïa.protect](/_protect/Earth/Continent/Africa/Africa~North/Algeria/provinces~Algeria/Béjaïa.protect.md) 
+### #is_/same_as :: [[/_protect/Earth/Continent/Africa/Africa~North/Algeria/provinces~Algeria/Béjaïa.protect|Béjaïa.protect]] 
 
-### #is_/same_as :: [Béjaïa.private](/_private/Earth/Continent/Africa/Africa~North/Algeria/provinces~Algeria/Béjaïa.private.md) 
+### #is_/same_as :: [[/_private/Earth/Continent/Africa/Africa~North/Algeria/provinces~Algeria/Béjaïa.private|Béjaïa.private]] 
 
-### #is_/same_as :: [Béjaïa.personal](/_personal/Earth/Continent/Africa/Africa~North/Algeria/provinces~Algeria/Béjaïa.personal.md) 
+### #is_/same_as :: [[/_personal/Earth/Continent/Africa/Africa~North/Algeria/provinces~Algeria/Béjaïa.personal|Béjaïa.personal]] 
 
-### #is_/same_as :: [Béjaïa.secret](/_secret/Earth/Continent/Africa/Africa~North/Algeria/provinces~Algeria/Béjaïa.secret.md)
+### #is_/same_as :: [[/_secret/Earth/Continent/Africa/Africa~North/Algeria/provinces~Algeria/Béjaïa.secret|Béjaïa.secret]] 
 

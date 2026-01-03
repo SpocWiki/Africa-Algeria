@@ -56,3 +56,20 @@ Commons_category: Tassili n'Ajjer
 >
 > [Wikipedia](https://en.wikipedia.org/wiki/Tassili%20n'Ajjer) 
 
+
+## Confidential Links & Embeds: 
+
+### #is_/same_as :: [[/_Standards/Earth/Continent/Africa/Africa~North/Algeria/Tassili_n'Ajjer|Tassili_n'Ajjer]] 
+
+### #is_/same_as :: [[/_public/Earth/Continent/Africa/Africa~North/Algeria/Tassili_n'Ajjer.public|Tassili_n'Ajjer.public]] 
+
+### #is_/same_as :: [[/_internal/Earth/Continent/Africa/Africa~North/Algeria/Tassili_n'Ajjer.internal|Tassili_n'Ajjer.internal]] 
+
+### #is_/same_as :: [[/_protect/Earth/Continent/Africa/Africa~North/Algeria/Tassili_n'Ajjer.protect|Tassili_n'Ajjer.protect]] 
+
+### #is_/same_as :: [[/_private/Earth/Continent/Africa/Africa~North/Algeria/Tassili_n'Ajjer.private|Tassili_n'Ajjer.private]] 
+
+### #is_/same_as :: [[/_personal/Earth/Continent/Africa/Africa~North/Algeria/Tassili_n'Ajjer.personal|Tassili_n'Ajjer.personal]] 
+
+### #is_/same_as :: [[/_secret/Earth/Continent/Africa/Africa~North/Algeria/Tassili_n'Ajjer.secret|Tassili_n'Ajjer.secret]] 
+

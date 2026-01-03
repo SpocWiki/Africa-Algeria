@@ -40,17 +40,17 @@ markerFolder: ./Skikda/
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Skikda](/_Standards/Earth/Continent/Africa/Africa~North/Algeria/provinces~Algeria/Skikda.md) 
+### #is_/same_as :: [[/_Standards/Earth/Continent/Africa/Africa~North/Algeria/provinces~Algeria/Skikda|Skikda]] 
 
-### #is_/same_as :: [Skikda.public](/_public/Earth/Continent/Africa/Africa~North/Algeria/provinces~Algeria/Skikda.public.md) 
+### #is_/same_as :: [[/_public/Earth/Continent/Africa/Africa~North/Algeria/provinces~Algeria/Skikda.public|Skikda.public]] 
 
-### #is_/same_as :: [Skikda.internal](/_internal/Earth/Continent/Africa/Africa~North/Algeria/provinces~Algeria/Skikda.internal.md) 
+### #is_/same_as :: [[/_internal/Earth/Continent/Africa/Africa~North/Algeria/provinces~Algeria/Skikda.internal|Skikda.internal]] 
 
-### #is_/same_as :: [Skikda.protect](/_protect/Earth/Continent/Africa/Africa~North/Algeria/provinces~Algeria/Skikda.protect.md) 
+### #is_/same_as :: [[/_protect/Earth/Continent/Africa/Africa~North/Algeria/provinces~Algeria/Skikda.protect|Skikda.protect]] 
 
-### #is_/same_as :: [Skikda.private](/_private/Earth/Continent/Africa/Africa~North/Algeria/provinces~Algeria/Skikda.private.md) 
+### #is_/same_as :: [[/_private/Earth/Continent/Africa/Africa~North/Algeria/provinces~Algeria/Skikda.private|Skikda.private]] 
 
-### #is_/same_as :: [Skikda.personal](/_personal/Earth/Continent/Africa/Africa~North/Algeria/provinces~Algeria/Skikda.personal.md) 
+### #is_/same_as :: [[/_personal/Earth/Continent/Africa/Africa~North/Algeria/provinces~Algeria/Skikda.personal|Skikda.personal]] 
 
-### #is_/same_as :: [Skikda.secret](/_secret/Earth/Continent/Africa/Africa~North/Algeria/provinces~Algeria/Skikda.secret.md)
+### #is_/same_as :: [[/_secret/Earth/Continent/Africa/Africa~North/Algeria/provinces~Algeria/Skikda.secret|Skikda.secret]] 
 

@@ -40,17 +40,17 @@ markerFolder: ./Béchar/
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Béchar](/_Standards/Earth/Continent/Africa/Africa~North/Algeria/provinces~Algeria/Béchar.md) 
+### #is_/same_as :: [[/_Standards/Earth/Continent/Africa/Africa~North/Algeria/provinces~Algeria/Béchar|Béchar]] 
 
-### #is_/same_as :: [Béchar.public](/_public/Earth/Continent/Africa/Africa~North/Algeria/provinces~Algeria/Béchar.public.md) 
+### #is_/same_as :: [[/_public/Earth/Continent/Africa/Africa~North/Algeria/provinces~Algeria/Béchar.public|Béchar.public]] 
 
-### #is_/same_as :: [Béchar.internal](/_internal/Earth/Continent/Africa/Africa~North/Algeria/provinces~Algeria/Béchar.internal.md) 
+### #is_/same_as :: [[/_internal/Earth/Continent/Africa/Africa~North/Algeria/provinces~Algeria/Béchar.internal|Béchar.internal]] 
 
-### #is_/same_as :: [Béchar.protect](/_protect/Earth/Continent/Africa/Africa~North/Algeria/provinces~Algeria/Béchar.protect.md) 
+### #is_/same_as :: [[/_protect/Earth/Continent/Africa/Africa~North/Algeria/provinces~Algeria/Béchar.protect|Béchar.protect]] 
 
-### #is_/same_as :: [Béchar.private](/_private/Earth/Continent/Africa/Africa~North/Algeria/provinces~Algeria/Béchar.private.md) 
+### #is_/same_as :: [[/_private/Earth/Continent/Africa/Africa~North/Algeria/provinces~Algeria/Béchar.private|Béchar.private]] 
 
-### #is_/same_as :: [Béchar.personal](/_personal/Earth/Continent/Africa/Africa~North/Algeria/provinces~Algeria/Béchar.personal.md) 
+### #is_/same_as :: [[/_personal/Earth/Continent/Africa/Africa~North/Algeria/provinces~Algeria/Béchar.personal|Béchar.personal]] 
 
-### #is_/same_as :: [Béchar.secret](/_secret/Earth/Continent/Africa/Africa~North/Algeria/provinces~Algeria/Béchar.secret.md)
+### #is_/same_as :: [[/_secret/Earth/Continent/Africa/Africa~North/Algeria/provinces~Algeria/Béchar.secret|Béchar.secret]] 
 

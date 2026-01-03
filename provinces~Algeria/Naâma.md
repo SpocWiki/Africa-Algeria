@@ -40,17 +40,17 @@ markerFolder: ./Naâma/
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Naâma](/_Standards/Earth/Continent/Africa/Africa~North/Algeria/provinces~Algeria/Naâma.md) 
+### #is_/same_as :: [[/_Standards/Earth/Continent/Africa/Africa~North/Algeria/provinces~Algeria/Naâma|Naâma]] 
 
-### #is_/same_as :: [Naâma.public](/_public/Earth/Continent/Africa/Africa~North/Algeria/provinces~Algeria/Naâma.public.md) 
+### #is_/same_as :: [[/_public/Earth/Continent/Africa/Africa~North/Algeria/provinces~Algeria/Naâma.public|Naâma.public]] 
 
-### #is_/same_as :: [Naâma.internal](/_internal/Earth/Continent/Africa/Africa~North/Algeria/provinces~Algeria/Naâma.internal.md) 
+### #is_/same_as :: [[/_internal/Earth/Continent/Africa/Africa~North/Algeria/provinces~Algeria/Naâma.internal|Naâma.internal]] 
 
-### #is_/same_as :: [Naâma.protect](/_protect/Earth/Continent/Africa/Africa~North/Algeria/provinces~Algeria/Naâma.protect.md) 
+### #is_/same_as :: [[/_protect/Earth/Continent/Africa/Africa~North/Algeria/provinces~Algeria/Naâma.protect|Naâma.protect]] 
 
-### #is_/same_as :: [Naâma.private](/_private/Earth/Continent/Africa/Africa~North/Algeria/provinces~Algeria/Naâma.private.md) 
+### #is_/same_as :: [[/_private/Earth/Continent/Africa/Africa~North/Algeria/provinces~Algeria/Naâma.private|Naâma.private]] 
 
-### #is_/same_as :: [Naâma.personal](/_personal/Earth/Continent/Africa/Africa~North/Algeria/provinces~Algeria/Naâma.personal.md) 
+### #is_/same_as :: [[/_personal/Earth/Continent/Africa/Africa~North/Algeria/provinces~Algeria/Naâma.personal|Naâma.personal]] 
 
-### #is_/same_as :: [Naâma.secret](/_secret/Earth/Continent/Africa/Africa~North/Algeria/provinces~Algeria/Naâma.secret.md)
+### #is_/same_as :: [[/_secret/Earth/Continent/Africa/Africa~North/Algeria/provinces~Algeria/Naâma.secret|Naâma.secret]] 
 

@@ -40,17 +40,17 @@ markerFolder: ./Boumerdès/
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Boumerdès](/_Standards/Earth/Continent/Africa/Africa~North/Algeria/provinces~Algeria/Boumerdès.md) 
+### #is_/same_as :: [[/_Standards/Earth/Continent/Africa/Africa~North/Algeria/provinces~Algeria/Boumerdès|Boumerdès]] 
 
-### #is_/same_as :: [Boumerdès.public](/_public/Earth/Continent/Africa/Africa~North/Algeria/provinces~Algeria/Boumerdès.public.md) 
+### #is_/same_as :: [[/_public/Earth/Continent/Africa/Africa~North/Algeria/provinces~Algeria/Boumerdès.public|Boumerdès.public]] 
 
-### #is_/same_as :: [Boumerdès.internal](/_internal/Earth/Continent/Africa/Africa~North/Algeria/provinces~Algeria/Boumerdès.internal.md) 
+### #is_/same_as :: [[/_internal/Earth/Continent/Africa/Africa~North/Algeria/provinces~Algeria/Boumerdès.internal|Boumerdès.internal]] 
 
-### #is_/same_as :: [Boumerdès.protect](/_protect/Earth/Continent/Africa/Africa~North/Algeria/provinces~Algeria/Boumerdès.protect.md) 
+### #is_/same_as :: [[/_protect/Earth/Continent/Africa/Africa~North/Algeria/provinces~Algeria/Boumerdès.protect|Boumerdès.protect]] 
 
-### #is_/same_as :: [Boumerdès.private](/_private/Earth/Continent/Africa/Africa~North/Algeria/provinces~Algeria/Boumerdès.private.md) 
+### #is_/same_as :: [[/_private/Earth/Continent/Africa/Africa~North/Algeria/provinces~Algeria/Boumerdès.private|Boumerdès.private]] 
 
-### #is_/same_as :: [Boumerdès.personal](/_personal/Earth/Continent/Africa/Africa~North/Algeria/provinces~Algeria/Boumerdès.personal.md) 
+### #is_/same_as :: [[/_personal/Earth/Continent/Africa/Africa~North/Algeria/provinces~Algeria/Boumerdès.personal|Boumerdès.personal]] 
 
-### #is_/same_as :: [Boumerdès.secret](/_secret/Earth/Continent/Africa/Africa~North/Algeria/provinces~Algeria/Boumerdès.secret.md)
+### #is_/same_as :: [[/_secret/Earth/Continent/Africa/Africa~North/Algeria/provinces~Algeria/Boumerdès.secret|Boumerdès.secret]] 
 

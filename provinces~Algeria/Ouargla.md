@@ -40,17 +40,17 @@ markerFolder: ./Ouargla/
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Ouargla](/_Standards/Earth/Continent/Africa/Africa~North/Algeria/provinces~Algeria/Ouargla.md) 
+### #is_/same_as :: [[/_Standards/Earth/Continent/Africa/Africa~North/Algeria/provinces~Algeria/Ouargla|Ouargla]] 
 
-### #is_/same_as :: [Ouargla.public](/_public/Earth/Continent/Africa/Africa~North/Algeria/provinces~Algeria/Ouargla.public.md) 
+### #is_/same_as :: [[/_public/Earth/Continent/Africa/Africa~North/Algeria/provinces~Algeria/Ouargla.public|Ouargla.public]] 
 
-### #is_/same_as :: [Ouargla.internal](/_internal/Earth/Continent/Africa/Africa~North/Algeria/provinces~Algeria/Ouargla.internal.md) 
+### #is_/same_as :: [[/_internal/Earth/Continent/Africa/Africa~North/Algeria/provinces~Algeria/Ouargla.internal|Ouargla.internal]] 
 
-### #is_/same_as :: [Ouargla.protect](/_protect/Earth/Continent/Africa/Africa~North/Algeria/provinces~Algeria/Ouargla.protect.md) 
+### #is_/same_as :: [[/_protect/Earth/Continent/Africa/Africa~North/Algeria/provinces~Algeria/Ouargla.protect|Ouargla.protect]] 
 
-### #is_/same_as :: [Ouargla.private](/_private/Earth/Continent/Africa/Africa~North/Algeria/provinces~Algeria/Ouargla.private.md) 
+### #is_/same_as :: [[/_private/Earth/Continent/Africa/Africa~North/Algeria/provinces~Algeria/Ouargla.private|Ouargla.private]] 
 
-### #is_/same_as :: [Ouargla.personal](/_personal/Earth/Continent/Africa/Africa~North/Algeria/provinces~Algeria/Ouargla.personal.md) 
+### #is_/same_as :: [[/_personal/Earth/Continent/Africa/Africa~North/Algeria/provinces~Algeria/Ouargla.personal|Ouargla.personal]] 
 
-### #is_/same_as :: [Ouargla.secret](/_secret/Earth/Continent/Africa/Africa~North/Algeria/provinces~Algeria/Ouargla.secret.md)
+### #is_/same_as :: [[/_secret/Earth/Continent/Africa/Africa~North/Algeria/provinces~Algeria/Ouargla.secret|Ouargla.secret]] 
 

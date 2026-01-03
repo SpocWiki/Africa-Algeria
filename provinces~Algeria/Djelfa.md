@@ -40,17 +40,17 @@ markerFolder: ./Djelfa/
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Djelfa](/_Standards/Earth/Continent/Africa/Africa~North/Algeria/provinces~Algeria/Djelfa.md) 
+### #is_/same_as :: [[/_Standards/Earth/Continent/Africa/Africa~North/Algeria/provinces~Algeria/Djelfa|Djelfa]] 
 
-### #is_/same_as :: [Djelfa.public](/_public/Earth/Continent/Africa/Africa~North/Algeria/provinces~Algeria/Djelfa.public.md) 
+### #is_/same_as :: [[/_public/Earth/Continent/Africa/Africa~North/Algeria/provinces~Algeria/Djelfa.public|Djelfa.public]] 
 
-### #is_/same_as :: [Djelfa.internal](/_internal/Earth/Continent/Africa/Africa~North/Algeria/provinces~Algeria/Djelfa.internal.md) 
+### #is_/same_as :: [[/_internal/Earth/Continent/Africa/Africa~North/Algeria/provinces~Algeria/Djelfa.internal|Djelfa.internal]] 
 
-### #is_/same_as :: [Djelfa.protect](/_protect/Earth/Continent/Africa/Africa~North/Algeria/provinces~Algeria/Djelfa.protect.md) 
+### #is_/same_as :: [[/_protect/Earth/Continent/Africa/Africa~North/Algeria/provinces~Algeria/Djelfa.protect|Djelfa.protect]] 
 
-### #is_/same_as :: [Djelfa.private](/_private/Earth/Continent/Africa/Africa~North/Algeria/provinces~Algeria/Djelfa.private.md) 
+### #is_/same_as :: [[/_private/Earth/Continent/Africa/Africa~North/Algeria/provinces~Algeria/Djelfa.private|Djelfa.private]] 
 
-### #is_/same_as :: [Djelfa.personal](/_personal/Earth/Continent/Africa/Africa~North/Algeria/provinces~Algeria/Djelfa.personal.md) 
+### #is_/same_as :: [[/_personal/Earth/Continent/Africa/Africa~North/Algeria/provinces~Algeria/Djelfa.personal|Djelfa.personal]] 
 
-### #is_/same_as :: [Djelfa.secret](/_secret/Earth/Continent/Africa/Africa~North/Algeria/provinces~Algeria/Djelfa.secret.md)
+### #is_/same_as :: [[/_secret/Earth/Continent/Africa/Africa~North/Algeria/provinces~Algeria/Djelfa.secret|Djelfa.secret]] 
 

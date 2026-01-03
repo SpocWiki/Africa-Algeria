@@ -40,17 +40,17 @@ markerFolder: ./Laghouat/
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Laghouat](/_Standards/Earth/Continent/Africa/Africa~North/Algeria/provinces~Algeria/Laghouat.md) 
+### #is_/same_as :: [[/_Standards/Earth/Continent/Africa/Africa~North/Algeria/provinces~Algeria/Laghouat|Laghouat]] 
 
-### #is_/same_as :: [Laghouat.public](/_public/Earth/Continent/Africa/Africa~North/Algeria/provinces~Algeria/Laghouat.public.md) 
+### #is_/same_as :: [[/_public/Earth/Continent/Africa/Africa~North/Algeria/provinces~Algeria/Laghouat.public|Laghouat.public]] 
 
-### #is_/same_as :: [Laghouat.internal](/_internal/Earth/Continent/Africa/Africa~North/Algeria/provinces~Algeria/Laghouat.internal.md) 
+### #is_/same_as :: [[/_internal/Earth/Continent/Africa/Africa~North/Algeria/provinces~Algeria/Laghouat.internal|Laghouat.internal]] 
 
-### #is_/same_as :: [Laghouat.protect](/_protect/Earth/Continent/Africa/Africa~North/Algeria/provinces~Algeria/Laghouat.protect.md) 
+### #is_/same_as :: [[/_protect/Earth/Continent/Africa/Africa~North/Algeria/provinces~Algeria/Laghouat.protect|Laghouat.protect]] 
 
-### #is_/same_as :: [Laghouat.private](/_private/Earth/Continent/Africa/Africa~North/Algeria/provinces~Algeria/Laghouat.private.md) 
+### #is_/same_as :: [[/_private/Earth/Continent/Africa/Africa~North/Algeria/provinces~Algeria/Laghouat.private|Laghouat.private]] 
 
-### #is_/same_as :: [Laghouat.personal](/_personal/Earth/Continent/Africa/Africa~North/Algeria/provinces~Algeria/Laghouat.personal.md) 
+### #is_/same_as :: [[/_personal/Earth/Continent/Africa/Africa~North/Algeria/provinces~Algeria/Laghouat.personal|Laghouat.personal]] 
 
-### #is_/same_as :: [Laghouat.secret](/_secret/Earth/Continent/Africa/Africa~North/Algeria/provinces~Algeria/Laghouat.secret.md)
+### #is_/same_as :: [[/_secret/Earth/Continent/Africa/Africa~North/Algeria/provinces~Algeria/Laghouat.secret|Laghouat.secret]] 
 
