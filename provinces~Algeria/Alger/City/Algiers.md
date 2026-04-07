@@ -24,7 +24,7 @@ has_id_wikidata: Q3561
 [geo-lat::36.78] 
 [name::Algier=Algiers] 
 State ::  
-Country :: [[../../../../Algeria]]  
+Country :: [[../../../../Algeria|Algeria]]  
 [StateId::] 
 [Population::] 
 [Unknown::] 
@@ -38,7 +38,7 @@ defaultZoom: 11
 maxZoom: 18
 ```
 
-#is_/same_as :: [[../../../../../../../../WikiData/WD~Algiers,3561]] 
+#is_/same_as :: [[../../../../../../../../WikiData/WD~Algiers,3561|WD~Algiers,3561]] 
 
 ## #has_/text_of_/abstract 
 

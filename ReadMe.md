@@ -117,7 +117,7 @@ markerFolder: .//
 [Area-Land::2381740] 
 Continent :: [[Africa]]  
 [VehicleCode::DZ] 
-Capital :: [[Africa~North/Algeria/Counties/Alger/City/Algier=Algiers]]  
+Capital :: [[Africa~North/Algeria/Counties/Alger/City/Algier=Algiers|Algier=Algiers]]  
 ![[Africa~North/Algeria/Emblem_of_Algeria.svg|350]]  
 
 
