@@ -35,7 +35,7 @@ minZoom: 2
 maxZoom: 18
 geojsonFolder: ./M'Sila/
 markerFolder: ./M'Sila/
-```
+``` 
 
 
 ## Confidential Links & Embeds: 

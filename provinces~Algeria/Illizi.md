@@ -35,7 +35,7 @@ minZoom: 2
 maxZoom: 18
 geojsonFolder: ./Illizi/
 markerFolder: ./Illizi/
-```
+``` 
 
 
 ## Confidential Links & Embeds: 

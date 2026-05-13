@@ -35,7 +35,7 @@ minZoom: 2
 maxZoom: 18
 geojsonFolder: ./Oum_el_Bouaghi/
 markerFolder: ./Oum_el_Bouaghi/
-```
+``` 
 
 
 ## Confidential Links & Embeds: 

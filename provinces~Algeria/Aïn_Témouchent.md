@@ -35,7 +35,7 @@ minZoom: 2
 maxZoom: 18
 geojsonFolder: ./Aïn_Témouchent/
 markerFolder: ./Aïn_Témouchent/
-```
+``` 
 
 
 ## Confidential Links & Embeds: 

@@ -35,7 +35,7 @@ minZoom: 2
 maxZoom: 18
 geojsonFolder: ./Bordj_Bou_Arréridj/
 markerFolder: ./Bordj_Bou_Arréridj/
-```
+``` 
 
 
 ## Confidential Links & Embeds: 

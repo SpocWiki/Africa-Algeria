@@ -35,7 +35,7 @@ minZoom: 2
 maxZoom: 18
 geojsonFolder: ./Tizi_Ouzou/
 markerFolder: ./Tizi_Ouzou/
-```
+``` 
 
 
 ## Confidential Links & Embeds: 

@@ -35,7 +35,7 @@ minZoom: 2
 maxZoom: 18
 geojsonFolder: ./Sidi_Bel_Abbès/
 markerFolder: ./Sidi_Bel_Abbès/
-```
+``` 
 
 
 ## Confidential Links & Embeds: 
