@@ -366,7 +366,7 @@ dv_UNTERM_Chinese_Formal: 阿尔及利亚民主人民共和国
 dv_UNTERM_French_Formal: la République algérienne démocratique et populaire
 dv_UNTERM_Russian: Алжир
 dv_UNTERM_Russian_Formal: Алжирская Народная Демократическая Республика
-dv_Region_Name: '[[../../Africa|Africa]]'
+dv_Region_Name: '[[../../../Africa|Africa]]'
 dv_Intermediate_Region_Name: '[[Algeria]]'
 dv_Sub-region_Name: '[[Northern Africa]]'
 dv_Region: 2
@@ -392,17 +392,17 @@ dv_ISO3: DZA
 dv_has_name_de: Algerien
 dv_Area-Total: 2381741
 dv_Area-Land: 2381740
-dv_has_place_continent: '[[../../Africa|Africa]]'
+dv_has_place_continent: '[[../../../Africa|Africa]]'
 dv_VehicleCode: DZ
-dv_Capital: '[[Africa~North/Algeria/Counties/Alger/City/Algier=Algiers|Algier=Algiers]]'
+dv_Capital: '[[../Africa~North/Algeria/Counties/Alger/City/Algier=Algiers|Algier=Algiers]]'
 dv_Alcohol-l: 1
 dv_Language-Id: 472
-dv_is_a_: "[[../../../Geography/Place/Administrative_Area/Country|Country]]"
+dv_is_a_: "[[../../../../Geography/Place/Administrative_Area/Country|Country]]"
 dv_has_place_longitude: 3.05
 dv_has_place_latitude: 36.78
 dv_is_:
   same_as:
-  - '[[../../../../WikiData/WD~Algeria,262|WD~Algeria,262]]'
+  - '[[../../../../../WikiData/WD~Algeria,262|WD~Algeria,262]]'
   - '[[/_Standards/Earth/Continent/Africa/Africa~North/Algeria|Algeria]]'
   - '[[/_public/Earth/Continent/Africa/Africa~North/Algeria.public|Algeria.public]]'
   - '[[/_internal/Earth/Continent/Africa/Africa~North/Algeria.internal|Algeria.internal]]'
@@ -413,7 +413,7 @@ dv_is_:
 dv_has_url_for_code_repository: https://github.com/SpocWiki/Africa-Algeria
 dv_developed_developing_countries: Developing
 dv_is_same_as:
-- '[[../../../../WikiData/WD~Algeria,262|WD~Algeria,262]]'
+- '[[../../../../../WikiData/WD~Algeria,262|WD~Algeria,262]]'
 - '[[/_Standards/Earth/Continent/Africa/Africa~North/Algeria|Algeria]]'
 - '[[/_public/Earth/Continent/Africa/Africa~North/Algeria.public|Algeria.public]]'
 - '[[/_internal/Earth/Continent/Africa/Africa~North/Algeria.internal|Algeria.internal]]'
@@ -734,7 +734,7 @@ instance_of:
 history_of_topic: '[[/_Standards/WikiData/WD~history_of_Algeria,473761|WD~history_of_Algeria,473761]]'
 lowest_point: '[[/_Standards/WikiData/WD~Chott_Melrhir,584255|WD~Chott_Melrhir,584255]]'
 described_by_source:
-- '[[../../../../WikiData/WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358|WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358]]'
+- '[[../../../../../WikiData/WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358|WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358]]'
 - '[[/_Standards/WikiData/WD~Encyclopædia_Britannica_11th_edition,867541|WD~Encyclopædia_Britannica_11th_edition,867541]]'
 - '[[/_Standards/WikiData/WD~The_Nuttall_Encyclopædia,3181656|WD~The_Nuttall_Encyclopædia,3181656]]'
 - '[[/_Standards/WikiData/WD~Pax_Leksikon,3351707|WD~Pax_Leksikon,3351707]]'
@@ -1087,7 +1087,7 @@ ISO3 = `=this.dv_ISO3`
 For more Details, check out this Repository into this Subfolder: 
 has_url_for_code_repository = `=this.dv_has_url_for_code_repository`
 
-[[Algeria/ReadMe|ReadMe]] 
+[[ReadMe|ReadMe]] 
 
 
 ## #has_/map 
@@ -1109,7 +1109,7 @@ defaultZoom: 11
 
 ```leaflet
 id: Algeria_Topological
-image: [[../../../../../_public/xLarge.public/Earth/Earth-Topological.png|Earth-Topological.png]]
+image: [[../../../../../../_public/xLarge.public/Earth/Earth-Topological.png|Earth-Topological.png]]
 bounds:
   - [-90, -180]
   - [90, 180]
@@ -1134,12 +1134,12 @@ Area-Land = `=this.dv_Area-Land`
 has_place_continent = `=this.dv_has_place_continent`
 VehicleCode = `=this.dv_VehicleCode` 
 Capital = `=this.dv_Capital`
-![[Africa~North/Algeria/Emblem_of_Algeria.svg|350]]  
+![[../Africa~North/Algeria/Emblem_of_Algeria.svg|350]]  
 
 
-![[../../../../../_public/xLarge.public/National-Anthem/Anthem-Algeria.mp3|Anthem-Algeria.mp3]]
+![[../../../../../../_public/xLarge.public/National-Anthem/Anthem-Algeria.mp3|Anthem-Algeria.mp3]]
 
-![[Africa~North/Algeria/Flag_of_Algeria.svg|350]]  
+![[../Africa~North/Algeria/Flag_of_Algeria.svg|350]]  
 
 Alcohol-l = `=this.dv_Alcohol-l`
 Language-Id = `=this.dv_Language-Id`
